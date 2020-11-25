@@ -1,25 +1,9 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://example.com</id>
-    <title>Code</title>
+    <title>a serenity place</title>
     <link href="http://example.com" />
-    <updated>2020-11-24T15:22:00.000Z</updated>
-    <entry>
-        <id>http://example.com/2020/11/24/My-first-post/</id>
-        <title>My first post.</title>
-        <link rel="alternate" href="http://example.com/2020/11/24/My-first-post/"/>
-        <content type="html">&lt;h3 id=&#34;testing-article&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#testing-article&#34;&gt;#&lt;/a&gt; Testing article&lt;/h3&gt;
-&lt;h2 id=&#34;title-1&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#title-1&#34;&gt;#&lt;/a&gt; Title 1&lt;/h2&gt;
-&lt;p&gt;測試&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;title-2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#title-2&#34;&gt;#&lt;/a&gt; Title 2&lt;/h2&gt;
-&lt;p&gt;123&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;參考文件&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#參考文件&#34;&gt;#&lt;/a&gt; 參考文件&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy50ZXN0LmNvbQ==&#34;&gt;www.test.com&lt;/span&gt;&lt;/p&gt;
-</content>
-        <updated>2020-11-24T15:22:00.000Z</updated>
-    </entry>
+    <updated>2020-11-24T15:17:30.223Z</updated>
     <entry>
         <id>http://example.com/2020/11/24/hello-world/</id>
         <title>Hello World</title>
