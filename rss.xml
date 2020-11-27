@@ -10,13 +10,23 @@
         </author>
         <description></description>
         <language>zh-TW</language>
-        <pubDate>Fri, 27 Nov 2020 02:48:49 +0800</pubDate>
-        <lastBuildDate>Fri, 27 Nov 2020 02:48:49 +0800</lastBuildDate>
+        <pubDate>Sat, 28 Nov 2020 00:32:25 +0800</pubDate>
+        <lastBuildDate>Sat, 28 Nov 2020 00:32:25 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://ping29065147.github.io/2020/11/28/C-logical-relational-and-bitwise-operators/</guid>
+            <title>C++ logical, relational and bitwise operators</title>
+            <link>http://ping29065147.github.io/2020/11/28/C-logical-relational-and-bitwise-operators/</link>
+            <category term="C++ Tutorial" scheme="http://ping29065147.github.io/categories/cpp-tutorial/" />
+            <category term="C++" scheme="http://ping29065147.github.io/tags/C/" />
+            <pubDate>Sat, 28 Nov 2020 00:32:25 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;內容待補&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://ping29065147.github.io/2020/11/27/C-data-type-and-basic-operators/</guid>
             <title>C++ data type and basic operators</title>
             <link>http://ping29065147.github.io/2020/11/27/C-data-type-and-basic-operators/</link>
-            <category term="C++ tutorial" scheme="http://ping29065147.github.io/categories/C-tutorial/" />
+            <category term="C++ Tutorial" scheme="http://ping29065147.github.io/categories/cpp-tutorial/" />
             <category term="C++" scheme="http://ping29065147.github.io/tags/C/" />
             <pubDate>Fri, 27 Nov 2020 02:48:49 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;資料型態與宣告&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#資料型態與宣告&#34;&gt;#&lt;/a&gt; 資料型態與宣告&lt;/h1&gt;
@@ -210,7 +220,7 @@ C++11 之後新增了一個叫 auto 的資料型態&lt;br /&gt;
             <guid isPermalink="true">http://ping29065147.github.io/2020/11/26/C-input-and-output/</guid>
             <title>C++ input and output</title>
             <link>http://ping29065147.github.io/2020/11/26/C-input-and-output/</link>
-            <category term="C++ tutorial" scheme="http://ping29065147.github.io/categories/C-tutorial/" />
+            <category term="C++ Tutorial" scheme="http://ping29065147.github.io/categories/cpp-tutorial/" />
             <category term="C++" scheme="http://ping29065147.github.io/tags/C/" />
             <pubDate>Thu, 26 Nov 2020 00:42:13 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;hello-world&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hello-world&#34;&gt;#&lt;/a&gt; Hello world!&lt;/h1&gt;

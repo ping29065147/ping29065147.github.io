@@ -8,7 +8,17 @@
     <author>
       <name>PingHe</name>
     </author>
-    <updated>2020-11-26T18:48:49.000Z</updated>
+    <updated>2020-11-27T16:32:25.000Z</updated>
+    <entry>
+        <id>http://ping29065147.github.io/2020/11/28/C-logical-relational-and-bitwise-operators/</id>
+        <title>C++ logical, relational and bitwise operators</title>
+        <link rel="alternate" href="http://ping29065147.github.io/2020/11/28/C-logical-relational-and-bitwise-operators/"/>
+        <content type="html">&lt;p&gt;內容待補&lt;/p&gt;
+</content>
+        <category term="C++ Tutorial" scheme="http://ping29065147.github.io/categories/cpp-tutorial/" />
+        <category term="C++" scheme="http://ping29065147.github.io/tags/C/" />
+        <updated>2020-11-27T16:32:25.000Z</updated>
+    </entry>
     <entry>
         <id>http://ping29065147.github.io/2020/11/27/C-data-type-and-basic-operators/</id>
         <title>C++ data type and basic operators</title>
@@ -199,7 +209,7 @@ C++11 之後新增了一個叫 auto 的資料型態&lt;br /&gt;
 */
 &lt;/code&gt;&lt;/pre&gt;
 </content>
-        <category term="C++ tutorial" scheme="http://ping29065147.github.io/categories/C-tutorial/" />
+        <category term="C++ Tutorial" scheme="http://ping29065147.github.io/categories/cpp-tutorial/" />
         <category term="C++" scheme="http://ping29065147.github.io/tags/C/" />
         <updated>2020-11-26T18:48:49.000Z</updated>
     </entry>
@@ -286,7 +296,7 @@ printf 的標準格式為:  &lt;code&gt;printf(&amp;quot;變數型態&amp;quot;,
 &lt;/div&gt;
 &lt;hr /&gt;
 </content>
-        <category term="C++ tutorial" scheme="http://ping29065147.github.io/categories/C-tutorial/" />
+        <category term="C++ Tutorial" scheme="http://ping29065147.github.io/categories/cpp-tutorial/" />
         <category term="C++" scheme="http://ping29065147.github.io/tags/C/" />
         <updated>2020-11-25T16:42:13.000Z</updated>
     </entry>
