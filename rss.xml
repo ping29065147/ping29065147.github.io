@@ -95,7 +95,7 @@ y mystring
 &lt;p&gt;變數名稱的命名規則:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;只能以英文字母及 &lt;code&gt;_&lt;/code&gt; 開頭&lt;/li&gt;
-&lt;li&gt;不能以數字開頭&lt;/li&gt;
+&lt;li&gt;只能包含英文字母、數字及 &lt;code&gt;_&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;關鍵字不能使用 (關鍵字為 cout, cin, int, char... 等)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;... 未完待補&lt;/p&gt;
