@@ -1,0 +1,15 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /home/
+Allow: /about/
+Allow: /posts/archives/
+Allow: /posts/categories/
+Allow: /posts/tags/
+ALLOW: /friends/
+ 
+# Disallow: /js/
+# Disallow: /css/
+# Disallow: /fancybox/
+
+Sitemap: https://ping29065147.github.io/sitemap.xml
