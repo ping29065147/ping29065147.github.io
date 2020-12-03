@@ -10,8 +10,20 @@
         </author>
         <description></description>
         <language>zh-TW</language>
-        <pubDate>Wed, 02 Dec 2020 19:18:17 +0800</pubDate>
-        <lastBuildDate>Wed, 02 Dec 2020 19:18:17 +0800</lastBuildDate>
+        <pubDate>Thu, 03 Dec 2020 21:31:19 +0800</pubDate>
+        <lastBuildDate>Thu, 03 Dec 2020 21:31:19 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://www.pinghenotes.com/UVa-11838-Come-and-Go/</guid>
+            <title>UVa 11838 - Come and Go</title>
+            <link>https://www.pinghenotes.com/UVa-11838-Come-and-Go/</link>
+            <category term="Uva Problems" scheme="https://www.pinghenotes.com/categories/Uva-Problems/" />
+            <category term="C++" scheme="https://www.pinghenotes.com/tags/C/" />
+            <category term="UVa" scheme="https://www.pinghenotes.com/tags/UVa/" />
+            <category term="dfs" scheme="https://www.pinghenotes.com/tags/dfs/" />
+            <category term="scc" scheme="https://www.pinghenotes.com/tags/scc/" />
+            <pubDate>Thu, 03 Dec 2020 21:31:19 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://www.pinghenotes.com/UVa-11504-Dominos/</guid>
             <title>UVa 11504 - Dominos</title>
@@ -40,8 +52,8 @@
 接著找每個 SCC 有沒有被其他 SCC 連接，連接數為零的 SCC 數量即為答案&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;解法二先找數個連接在一起的 tree&lt;br /&gt;
- 接著再反向搜尋這些 tree 有沒有被其他 tree 所連接&lt;/p&gt;
+&lt;p&gt;解法二先找出數個連接在一起的 tree，將 tree root 存起來&lt;br /&gt;
+接著再反向搜尋這些 tree root 有沒有被其他 tree 所連接&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;參考程式碼-1&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#參考程式碼-1&#34;&gt;#&lt;/a&gt; 參考程式碼 - 1&lt;/h1&gt;
