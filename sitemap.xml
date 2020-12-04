@@ -2,21 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10226-Hardwood-Species/</loc>
+    <loc>https://www.pinghenotes.com/uva-problems/UVa-429-Word-Transformation/</loc>
+    
+    <lastmod>2020-12-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/uva-problems/UVa-10226-Hardwood-Species/</loc>
     
     <lastmod>2020-12-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11838-Come-and-Go/</loc>
+    <loc>https://www.pinghenotes.com/uva-problems/UVa-11838-Come-and-Go/</loc>
     
     <lastmod>2020-12-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11504-Dominos/</loc>
+    <loc>https://www.pinghenotes.com/uva-problems/UVa-11504-Dominos/</loc>
     
     <lastmod>2020-12-03</lastmod>
     
@@ -30,42 +37,42 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-247-Calling-Circles/</loc>
+    <loc>https://www.pinghenotes.com/uva-problems/UVa-247-Calling-Circles/</loc>
     
     <lastmod>2020-12-02</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10972-RevolC-FaeLoN/</loc>
+    <loc>https://www.pinghenotes.com/uva-problems/UVa-10972-RevolC-FaeLoN/</loc>
     
     <lastmod>2020-12-01</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-1108-Mining-Your-Own-Business/</loc>
+    <loc>https://www.pinghenotes.com/uva-problems/UVa-1108-Mining-Your-Own-Business/</loc>
     
     <lastmod>2020-11-30</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/C-logical-relational-and-bitwise-operators/</loc>
+    <loc>https://www.pinghenotes.com/cpp-tutorial/C-logical-relational-and-bitwise-operators/</loc>
     
     <lastmod>2020-11-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/C-data-type-and-basic-operators/</loc>
+    <loc>https://www.pinghenotes.com/cpp-tutorial/C-data-type-and-basic-operators/</loc>
     
     <lastmod>2020-11-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/C-input-and-output/</loc>
+    <loc>https://www.pinghenotes.com/cpp-tutorial/C-input-and-output/</loc>
     
     <lastmod>2020-11-27</lastmod>
     
@@ -81,7 +88,7 @@
 
   <url>
     <loc>https://www.pinghenotes.com/</loc>
-    <lastmod>2020-12-03</lastmod>
+    <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -89,42 +96,49 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/C/</loc>
-    <lastmod>2020-12-03</lastmod>
+    <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/UVa/</loc>
-    <lastmod>2020-12-03</lastmod>
+    <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/map/</loc>
-    <lastmod>2020-12-03</lastmod>
+    <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/dfs/</loc>
-    <lastmod>2020-12-03</lastmod>
+    <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/bcc/</loc>
-    <lastmod>2020-12-03</lastmod>
+    <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/scc/</loc>
-    <lastmod>2020-12-03</lastmod>
+    <lastmod>2020-12-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/bfs/</loc>
+    <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -133,14 +147,14 @@
   
   <url>
     <loc>https://www.pinghenotes.com/categories/cpp-tutorial/</loc>
-    <lastmod>2020-12-03</lastmod>
+    <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/categories/Uva-Problems/</loc>
-    <lastmod>2020-12-03</lastmod>
+    <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
