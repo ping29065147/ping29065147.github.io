@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-924-Spreading-the-News/</loc>
+    
+    <lastmod>2020-12-04</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-429-Word-Transformation/</loc>
     
     <lastmod>2020-12-04</lastmod>
@@ -109,6 +116,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/tags/map/</loc>
+    <lastmod>2020-12-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/tags/dfs/</loc>
     <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
@@ -117,13 +131,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/bcc/</loc>
-    <lastmod>2020-12-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/map/</loc>
     <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
