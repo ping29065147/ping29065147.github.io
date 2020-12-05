@@ -18,7 +18,7 @@
 &lt;p&gt;現在是 3002 年，機器人已經統治了世界，你是少數存活的人類之一&lt;br /&gt;
 機器人一直用你來比對他們是否能變得更聰明&lt;br /&gt;
 今天是一個特別的日子，只要你能在 IRQ2003 領域中擊敗最快的機器人，你就會獲得自由&lt;br /&gt;
-就算他們是智能的，但機器人仍無法改變他們的基本缺陷：只能走 &lt;code&gt;上``下``左``右&lt;/code&gt; &lt;br /&gt;
+就算他們是智能的，但機器人仍無法改變他們的基本缺陷：只能走 &lt;code&gt;上 下 左 右&lt;/code&gt; &lt;br /&gt;
 你擁有一張顯示不安全區域的地圖，你必須找到從起點到終點的最短路徑&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;INPUT:&lt;/strong&gt;&lt;br /&gt;
@@ -42,16 +42,6 @@
         <category term="C++" scheme="https://www.pinghenotes.com/tags/C/" />
         <category term="UVa" scheme="https://www.pinghenotes.com/tags/UVa/" />
         <category term="bfs" scheme="https://www.pinghenotes.com/tags/bfs/" />
-        <updated>2020-12-05T09:05:09.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://www.pinghenotes.com/uva-problems/test/</id>
-        <title>test</title>
-        <link rel="alternate" href="https://www.pinghenotes.com/uva-problems/test/"/>
-        <content type="html">&lt;p&gt;test&lt;/p&gt;
-</content>
-        <category term="Uva Problems" scheme="https://www.pinghenotes.com/categories/Uva-Problems/" />
-        <category term="C++" scheme="https://www.pinghenotes.com/tags/C/" />
         <updated>2020-12-05T09:05:09.000Z</updated>
     </entry>
     <entry>
