@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-11034-Ferry-Loading-IV/</loc>
+    
+    <lastmod>2020-12-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-10901-Ferry-Loading-III/</loc>
+    
+    <lastmod>2020-12-10</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-10172-The-Lonesome-Cargo-Distributor/</loc>
     
     <lastmod>2020-12-09</lastmod>
@@ -200,7 +214,7 @@
 
   <url>
     <loc>https://www.pinghenotes.com/</loc>
-    <lastmod>2020-12-09</lastmod>
+    <lastmod>2020-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -208,98 +222,98 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/C/</loc>
-    <lastmod>2020-12-09</lastmod>
+    <lastmod>2020-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/UVa/</loc>
-    <lastmod>2020-12-09</lastmod>
+    <lastmod>2020-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/vector/</loc>
-    <lastmod>2020-12-09</lastmod>
+    <lastmod>2020-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/stack/</loc>
-    <lastmod>2020-12-09</lastmod>
+    <lastmod>2020-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/queue/</loc>
-    <lastmod>2020-12-09</lastmod>
+    <lastmod>2020-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/map/</loc>
-    <lastmod>2020-12-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/priority-queue/</loc>
-    <lastmod>2020-12-09</lastmod>
+    <lastmod>2020-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/bfs/</loc>
-    <lastmod>2020-12-09</lastmod>
+    <lastmod>2020-12-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/priority-queue/</loc>
+    <lastmod>2020-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/dfs/</loc>
-    <lastmod>2020-12-09</lastmod>
+    <lastmod>2020-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/bcc/</loc>
-    <lastmod>2020-12-09</lastmod>
+    <lastmod>2020-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/set/</loc>
-    <lastmod>2020-12-09</lastmod>
+    <lastmod>2020-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/scc/</loc>
-    <lastmod>2020-12-09</lastmod>
+    <lastmod>2020-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/list/</loc>
-    <lastmod>2020-12-09</lastmod>
+    <lastmod>2020-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/deque/</loc>
-    <lastmod>2020-12-09</lastmod>
+    <lastmod>2020-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -308,14 +322,14 @@
   
   <url>
     <loc>https://www.pinghenotes.com/categories/Uva-Problems/</loc>
-    <lastmod>2020-12-09</lastmod>
+    <lastmod>2020-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/categories/cpp-tutorial/</loc>
-    <lastmod>2020-12-09</lastmod>
+    <lastmod>2020-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
