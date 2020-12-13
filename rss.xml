@@ -10,15 +10,15 @@
         </author>
         <description></description>
         <language>zh-TW</language>
-        <pubDate>Mon, 14 Dec 2020 00:20:48 +0800</pubDate>
-        <lastBuildDate>Mon, 14 Dec 2020 00:20:48 +0800</lastBuildDate>
+        <pubDate>Mon, 14 Dec 2020 00:39:24 +0800</pubDate>
+        <lastBuildDate>Mon, 14 Dec 2020 00:39:24 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">https://www.pinghenotes.com/Data-Structures-UVa-Collection/</guid>
+            <guid isPermalink="true">https://www.pinghenotes.com/Data-Structures-UVa-Collections/</guid>
             <title>Data Structures UVa Collections</title>
-            <link>https://www.pinghenotes.com/Data-Structures-UVa-Collection/</link>
+            <link>https://www.pinghenotes.com/Data-Structures-UVa-Collections/</link>
             <category term="C++" scheme="https://www.pinghenotes.com/tags/C/" />
             <category term="UVa" scheme="https://www.pinghenotes.com/tags/UVa/" />
-            <pubDate>Mon, 14 Dec 2020 00:20:48 +0800</pubDate>
+            <pubDate>Mon, 14 Dec 2020 00:39:24 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;uva-problems-involving-c-stl-map&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#uva-problems-involving-c-stl-map&#34;&gt;#&lt;/a&gt; UVa problems Involving C++ STL map:&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.pinghenotes.com/UVa-10226-Hardwood-Species/&#34;&gt;UVa 10226 - Hardwood Species&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://www.pinghenotes.com/UVa-10282-Babelfish/&#34;&gt;UVa 10282 - Babelfish&lt;/a&gt;&lt;br /&gt;
@@ -42,6 +42,11 @@
 &lt;p&gt;&lt;a href=&#34;https://www.pinghenotes.com/UVa-10172-The-Lonesome-Cargo-Distributor/&#34;&gt;UVa 10172 - The Lonesome Cargo Distributor&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://www.pinghenotes.com/UVa-10901-Ferry-Loading-III/&#34;&gt;UVa 10901 - Ferry Loading III&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://www.pinghenotes.com/UVa-11034-Ferry-Loading-IV/&#34;&gt;UVa 11034 - Ferry Loading IV&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;dfs&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dfs&#34;&gt;#&lt;/a&gt; DFS:&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.pinghenotes.com/UVa-168-Theseus-and-the-Minotaur/&#34;&gt;UVa 168 - Theseus and the Minotaur&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;&#34;&gt;UVa 11906 - Knight in a War Grid&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;&#34;&gt;UVa 12442 - Forwarding Emails&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;topological-sort&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#topological-sort&#34;&gt;#&lt;/a&gt; Topological Sort:&lt;/h1&gt;
  ]]></description>
         </item>
         <item>
