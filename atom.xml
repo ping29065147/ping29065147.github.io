@@ -10,9 +10,9 @@
     </author>
     <updated>2020-12-13T16:20:48.000Z</updated>
     <entry>
-        <id>https://www.pinghenotes.com/Data%20Structures%20UVa%20Collection/</id>
+        <id>https://www.pinghenotes.com/uva-problems/Data-Structures-UVa-Collection/</id>
         <title>Data Structures UVa Collections</title>
-        <link rel="alternate" href="https://www.pinghenotes.com/Data%20Structures%20UVa%20Collection/"/>
+        <link rel="alternate" href="https://www.pinghenotes.com/uva-problems/Data-Structures-UVa-Collection/"/>
         <content type="html">&lt;h1 id=&#34;uva-problems-involving-c-stl-map&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#uva-problems-involving-c-stl-map&#34;&gt;#&lt;/a&gt; UVa problems Involving C++ STL map:&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.pinghenotes.com/UVa-10226-Hardwood-Species/&#34;&gt;UVa 10226 - Hardwood Species&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://www.pinghenotes.com/UVa-10282-Babelfish/&#34;&gt;UVa 10282 - Babelfish&lt;/a&gt;&lt;br /&gt;
@@ -21,6 +21,17 @@
 &lt;p&gt;&lt;a href=&#34;https://www.pinghenotes.com/UVa-978-Lemmings-Battle/&#34;&gt;UVa 978 - Lemmings Battle!&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://www.pinghenotes.com/UVa-11136-Hoax-or-what/&#34;&gt;UVa 11136 - Hoax or what&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://www.pinghenotes.com/UVa-11572-Unique-Snowflakes/&#34;&gt;UVa 11572 - Unique Snowflakes&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;uva-problems-involving-c-stl-list-and-deque&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#uva-problems-involving-c-stl-list-and-deque&#34;&gt;#&lt;/a&gt; UVa problems Involving C++ STL list and deque:&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.pinghenotes.com/UVa-11988-Broken-Keyboard-a-k-a-Beiju-Text/&#34;&gt;UVa 11988 - Broken Keyboard (a.k.a. Beiju Text)&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.pinghenotes.com/UVa-12207-That-is-Your-Queue/&#34;&gt;UVa 12207 - That is Your Queue&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;uva-problems-involving-c-stl-priority_queue&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#uva-problems-involving-c-stl-priority_queue&#34;&gt;#&lt;/a&gt; UVa problems Involving C++ STL priority_queue:&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.pinghenotes.com/UVa-1203-Argus/&#34;&gt;UVa 1203 - Argus&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.pinghenotes.com/UVa-10954-Add-All/&#34;&gt;UVa 10954 - Add All&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.pinghenotes.com/UVa-11995-I-Can-Guess-the-Data-Structure/&#34;&gt;UVa 11995 - I Can Guess the Data Structure!&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;uva-problems-involving-c-stl-stack&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#uva-problems-involving-c-stl-stack&#34;&gt;#&lt;/a&gt; UVa problems Involving C++ STL stack:&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
         <category term="C++" scheme="https://www.pinghenotes.com/tags/C/" />
         <category term="UVa" scheme="https://www.pinghenotes.com/tags/UVa/" />
