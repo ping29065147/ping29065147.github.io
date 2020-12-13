@@ -44,16 +44,16 @@
 &lt;a href=&#34;https://www.pinghenotes.com/UVa-11034-Ferry-Loading-IV/&#34;&gt;UVa 11034 - Ferry Loading IV&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;dfs&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dfs&#34;&gt;#&lt;/a&gt; DFS:&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.pinghenotes.com/UVa-168-Theseus-and-the-Minotaur/&#34;&gt;UVa 168 - Theseus and the Minotaur&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;&#34;&gt;UVa 11906 - Knight in a War Grid&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;&#34;&gt;UVa 12442 - Forwarding Emails&lt;/a&gt;&lt;/p&gt;
+x&lt;a href=&#34;&#34;&gt;UVa 11906 - Knight in a War Grid&lt;/a&gt;&lt;br /&gt;
+x&lt;a href=&#34;&#34;&gt;UVa 12442 - Forwarding Emails&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;topological-sort&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#topological-sort&#34;&gt;#&lt;/a&gt; Topological Sort:&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;UVa 200 - Rare Order&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;&#34;&gt;UVa 872 - Ordering&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;&#34;&gt;UVa 10305 - Ordering Tasks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;x&lt;a href=&#34;&#34;&gt;UVa 200 - Rare Order&lt;/a&gt;&lt;br /&gt;
+x&lt;a href=&#34;&#34;&gt;UVa 872 - Ordering&lt;/a&gt;&lt;br /&gt;
+x&lt;a href=&#34;&#34;&gt;UVa 10305 - Ordering Tasks&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;finding-articulation-points-bridges&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#finding-articulation-points-bridges&#34;&gt;#&lt;/a&gt; Finding Articulation Points / Bridges:&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;UVa 315 - Network&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;&#34;&gt;UVa 796 - Critical Links&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;&#34;&gt;UVa 10765 - Doves and Bombs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;x&lt;a href=&#34;&#34;&gt;UVa 315 - Network&lt;/a&gt;&lt;br /&gt;
+x&lt;a href=&#34;&#34;&gt;UVa 796 - Critical Links&lt;/a&gt;&lt;br /&gt;
+x&lt;a href=&#34;&#34;&gt;UVa 10765 - Doves and Bombs&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;finding-biconnected-bridge-connected-components&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#finding-biconnected-bridge-connected-components&#34;&gt;#&lt;/a&gt; Finding Biconnected / Bridge Connected Components:&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.pinghenotes.com/UVa-1108-Mining-Your-Own-Business/&#34;&gt;UVa 1108 - Mining Your Own Business&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://www.pinghenotes.com/UVa-10972-RevolC-FaeLoN/&#34;&gt;UVa 10972 - RevolC FaeLoN&lt;/a&gt;&lt;/p&gt;
@@ -70,13 +70,13 @@
 &lt;a href=&#34;https://www.pinghenotes.com/UVa-11631-Dark-Roads/&#34;&gt;UVa 11631 - Dark Roads&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://www.pinghenotes.com/UVa-11747-Heavy-Cycle-Edges/&#34;&gt;UVa 11747 - Heavy Cycle Edges&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;dijkstras-algorithm&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dijkstras-algorithm&#34;&gt;#&lt;/a&gt; Dijkstra’s Algorithm:&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;UVa 929 - Number Maze&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;&#34;&gt;UVa 1112 - Mice and Maze&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;&#34;&gt;UVa 10986 - Sending emai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;x&lt;a href=&#34;&#34;&gt;UVa 929 - Number Maze&lt;/a&gt;&lt;br /&gt;
+x&lt;a href=&#34;&#34;&gt;UVa 1112 - Mice and Maze&lt;/a&gt;&lt;br /&gt;
+x&lt;a href=&#34;&#34;&gt;UVa 10986 - Sending emai&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;the-bellman-ford-algorithm&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#the-bellman-ford-algorithm&#34;&gt;#&lt;/a&gt; The Bellman-Ford Algorithm:&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;UVa 558 - Wormholes&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;&#34;&gt;UVa 10449 - Traffic&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;&#34;&gt;UVa 10557 – XYZZY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;x&lt;a href=&#34;&#34;&gt;UVa 558 - Wormholes&lt;/a&gt;&lt;br /&gt;
+x&lt;a href=&#34;&#34;&gt;UVa 10449 - Traffic&lt;/a&gt;&lt;br /&gt;
+x&lt;a href=&#34;&#34;&gt;UVa 10557 – XYZZY&lt;/a&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
