@@ -7,11 +7,11 @@
     "home_page_url": "https://www.pinghenotes.com",
     "items": [
         {
-            "id": "https://www.pinghenotes.com/cpp-tutorial/Data%20Structures%20UVa%20Collection/",
-            "url": "https://www.pinghenotes.com/cpp-tutorial/Data%20Structures%20UVa%20Collection/",
+            "id": "https://www.pinghenotes.com/Data%20Structures%20UVa%20Collection/",
+            "url": "https://www.pinghenotes.com/Data%20Structures%20UVa%20Collection/",
             "title": "Data Structures UVa Collections",
             "date_published": "2020-12-13T16:20:48.000Z",
-            "content_html": "<h1 id=\"uva-problems-involving-c-stl-map\"><a class=\"anchor\" href=\"#uva-problems-involving-c-stl-map\">#</a> UVa problems Involving C++ STL map:</h1>\n<p><a href=\"\">UVa 10226 - Hardwood Species</a><br />\n<a href=\"\">UVa 10282 - Babelfish</a><br />\n<a href=\"\">UVa 11286 – Conformity</a></p>\n",
+            "content_html": "<h1 id=\"uva-problems-involving-c-stl-map\"><a class=\"anchor\" href=\"#uva-problems-involving-c-stl-map\">#</a> UVa problems Involving C++ STL map:</h1>\n<p><a href=\"https://www.pinghenotes.com/UVa-10226-Hardwood-Species/\">UVa 10226 - Hardwood Species</a><br />\n<a href=\"https://www.pinghenotes.com/UVa-10282-Babelfish/\">UVa 10282 - Babelfish</a><br />\n<a href=\"https://www.pinghenotes.com/UVa-11286-Conformity/\">UVa 11286 – Conformity</a></p>\n<h1 id=\"uva-problems-involving-c-stl-set\"><a class=\"anchor\" href=\"#uva-problems-involving-c-stl-set\">#</a> UVa problems Involving C++ STL set:</h1>\n<p><a href=\"https://www.pinghenotes.com/UVa-978-Lemmings-Battle/\">UVa 978 - Lemmings Battle!</a><br />\n<a href=\"https://www.pinghenotes.com/UVa-11136-Hoax-or-what/\">UVa 11136 - Hoax or what</a><br />\n<a href=\"https://www.pinghenotes.com/UVa-11572-Unique-Snowflakes/\">UVa 11572 - Unique Snowflakes</a></p>\n",
             "tags": [
                 "C++",
                 "UVa"
