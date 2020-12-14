@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-10986-Sending-email/</loc>
+    
+    <lastmod>2020-12-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-1112-Mice-and-Maze/</loc>
+    
+    <lastmod>2020-12-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-929-Number-Maze/</loc>
+    
+    <lastmod>2020-12-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/Data-Structures-UVa-Collections/</loc>
+    
+    <lastmod>2020-12-14</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-12442-Forwarding-Emails/</loc>
     
     <lastmod>2020-12-13</lastmod>
@@ -10,13 +38,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-11906-Knight-in-a-War-Grid/</loc>
-    
-    <lastmod>2020-12-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/Data-Structures-UVa-Collections/</loc>
     
     <lastmod>2020-12-13</lastmod>
     
@@ -263,7 +284,7 @@
 
   <url>
     <loc>https://www.pinghenotes.com/</loc>
-    <lastmod>2020-12-13</lastmod>
+    <lastmod>2020-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -271,112 +292,119 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/C/</loc>
-    <lastmod>2020-12-13</lastmod>
+    <lastmod>2020-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/UVa/</loc>
-    <lastmod>2020-12-13</lastmod>
+    <lastmod>2020-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/vector/</loc>
-    <lastmod>2020-12-13</lastmod>
+    <lastmod>2020-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/stack/</loc>
-    <lastmod>2020-12-13</lastmod>
+    <lastmod>2020-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/queue/</loc>
-    <lastmod>2020-12-13</lastmod>
+    <lastmod>2020-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/map/</loc>
-    <lastmod>2020-12-13</lastmod>
+    <lastmod>2020-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/bfs/</loc>
-    <lastmod>2020-12-13</lastmod>
+    <lastmod>2020-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/priority-queue/</loc>
-    <lastmod>2020-12-13</lastmod>
+    <lastmod>2020-12-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/dijkstra/</loc>
+    <lastmod>2020-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/dfs/</loc>
-    <lastmod>2020-12-13</lastmod>
+    <lastmod>2020-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/bcc/</loc>
-    <lastmod>2020-12-13</lastmod>
+    <lastmod>2020-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/set/</loc>
-    <lastmod>2020-12-13</lastmod>
+    <lastmod>2020-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/union-find/</loc>
-    <lastmod>2020-12-13</lastmod>
+    <lastmod>2020-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/kruskcal/</loc>
-    <lastmod>2020-12-13</lastmod>
+    <lastmod>2020-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/scc/</loc>
-    <lastmod>2020-12-13</lastmod>
+    <lastmod>2020-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/list/</loc>
-    <lastmod>2020-12-13</lastmod>
+    <lastmod>2020-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/tags/deque/</loc>
-    <lastmod>2020-12-13</lastmod>
+    <lastmod>2020-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -385,14 +413,14 @@
   
   <url>
     <loc>https://www.pinghenotes.com/categories/Uva-Problems/</loc>
-    <lastmod>2020-12-13</lastmod>
+    <lastmod>2020-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.pinghenotes.com/categories/cpp-tutorial/</loc>
-    <lastmod>2020-12-13</lastmod>
+    <lastmod>2020-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
