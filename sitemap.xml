@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-732-Anagrams-by-Stack/</loc>
+    
+    <lastmod>2020-12-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/Data-Structures-UVa-Collections/</loc>
     
     <lastmod>2020-12-18</lastmod>
@@ -159,13 +166,6 @@
     <loc>https://www.pinghenotes.com/UVa-1062-Containers/</loc>
     
     <lastmod>2020-12-09</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/UVa-732-Anagrams-by-Stack/</loc>
-    
-    <lastmod>2020-12-08</lastmod>
     
   </url>
   
