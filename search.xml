@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>UVa 673 - Parentheses Balance</title>
+      <link href="UVa-673-Parentheses-Balance/"/>
+      <url>UVa-673-Parentheses-Balance/</url>
+      
+        <content type="html"><![CDATA[<h2 id="題目-uva-673-parentheses-balance"><a class="anchor" href="#題目-uva-673-parentheses-balance">#</a> 題目: <span class="exturl" data-url="aHR0cHM6Ly92anVkZ2UubmV0L3Byb2JsZW0vVVZBLTY3Mw==">UVa 673 - Parentheses Balance</span></h2><h1 id="題目說明"><a class="anchor" href="#題目說明">#</a> 題目說明</h1><p>有一個包含 <code>[</code> 、 <code>]</code> 、 <code>(</code> 、 <code>)</code>  這四種符號的字串，你需要判斷此字串是否符合以下規則</p><ol><li>空字串為 <code>correct</code></li><li>如果 <code>A</code>  與 <code>B</code>  皆為 <code>correct</code> ， <code>AB</code>  為 <code>correct</code></li><li>如果 <code>A</code>  為 <code>correct</code> ，那 <code>[A]</code>  與 <code>(A)</code>  也為 <code>correct</code></li></ol><hr /><p><strong>INPUT:</strong><br /> 第一行為一個整數 <code>T</code> ，代表有幾筆資料<br />每筆資料輸入一串字串</p><hr /><p><strong>OUTPUT:</strong><br /> 結果為 <code>correct</code>  輸出 <code>Yes</code> ，否則輸出 <code>No</code></p><h1 id="解題方法"><a class="anchor" href="#解題方法">#</a> 解題方法</h1><p>使用 <code>stack</code> <br /> 當輸入為 <code>]</code> 、 <code>)</code>  時，判斷 <code>stack.top()</code>  是否為 <code>[</code> 、 <code>(</code> ，是則 <code>pop</code> <br /> 其餘狀況皆 <code>push</code>  進 <code>stack</code> <br /> 最後判斷 <code>stack</code>  是否為空即可</p><h1 id="參考程式碼"><a class="anchor" href="#參考程式碼">#</a> 參考程式碼</h1><figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span> <span class="token string">&lt;iostream></span></span></pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span> <span class="token string">&lt;stack></span></span></pre></td></tr><tr><td data-num="3"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span> <span class="token string">&lt;string></span></span></pre></td></tr><tr><td data-num="4"></td><td><pre></pre></td></tr><tr><td data-num="5"></td><td><pre><span class="token keyword">using</span> <span class="token keyword">namespace</span> std<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="6"></td><td><pre></pre></td></tr><tr><td data-num="7"></td><td><pre><span class="token keyword">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span></pre></td></tr><tr><td data-num="8"></td><td><pre><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="9"></td><td><pre>ios<span class="token operator">::</span><span class="token function">sync_with_stdio</span><span class="token punctuation">(</span><span class="token boolean">false</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="10"></td><td><pre>cin<span class="token punctuation">.</span><span class="token function">tie</span><span class="token punctuation">(</span><span class="token keyword">nullptr</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="11"></td><td><pre>cout<span class="token punctuation">.</span><span class="token function">tie</span><span class="token punctuation">(</span><span class="token keyword">nullptr</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="12"></td><td><pre></pre></td></tr><tr><td data-num="13"></td><td><pre><span class="token keyword">int</span> T<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="14"></td><td><pre>string str<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="15"></td><td><pre>cin <span class="token operator">>></span> T<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="16"></td><td><pre>cin<span class="token punctuation">.</span><span class="token function">ignore</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="17"></td><td><pre></pre></td></tr><tr><td data-num="18"></td><td><pre><span class="token keyword">while</span> <span class="token punctuation">(</span>T<span class="token operator">--</span><span class="token punctuation">)</span></pre></td></tr><tr><td data-num="19"></td><td><pre><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="20"></td><td><pre>stack<span class="token operator">&lt;</span><span class="token keyword">char</span><span class="token operator">></span> S<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="21"></td><td><pre><span class="token function">getline</span><span class="token punctuation">(</span>cin<span class="token punctuation">,</span> str<span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="22"></td><td><pre></pre></td></tr><tr><td data-num="23"></td><td><pre><span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">auto</span><span class="token operator">&amp;</span> c <span class="token operator">:</span> str<span class="token punctuation">)</span></pre></td></tr><tr><td data-num="24"></td><td><pre><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="25"></td><td><pre><span class="token keyword">if</span> <span class="token punctuation">(</span>c <span class="token operator">==</span> <span class="token string">']'</span><span class="token punctuation">)</span></pre></td></tr><tr><td data-num="26"></td><td><pre><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="27"></td><td><pre><span class="token keyword">if</span> <span class="token punctuation">(</span><span class="token operator">!</span>S<span class="token punctuation">.</span><span class="token function">empty</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">&amp;&amp;</span> S<span class="token punctuation">.</span><span class="token function">top</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">==</span> <span class="token string">'['</span><span class="token punctuation">)</span> S<span class="token punctuation">.</span><span class="token function">pop</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="28"></td><td><pre><span class="token keyword">else</span> <span class="token punctuation">(</span>S<span class="token punctuation">.</span><span class="token function">emplace</span><span class="token punctuation">(</span>c<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="29"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="30"></td><td><pre><span class="token keyword">else</span> <span class="token keyword">if</span> <span class="token punctuation">(</span>c <span class="token operator">==</span> <span class="token string">')'</span><span class="token punctuation">)</span></pre></td></tr><tr><td data-num="31"></td><td><pre><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="32"></td><td><pre><span class="token keyword">if</span> <span class="token punctuation">(</span><span class="token operator">!</span>S<span class="token punctuation">.</span><span class="token function">empty</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">&amp;&amp;</span> S<span class="token punctuation">.</span><span class="token function">top</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">==</span> <span class="token string">'('</span><span class="token punctuation">)</span> S<span class="token punctuation">.</span><span class="token function">pop</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="33"></td><td><pre><span class="token keyword">else</span> <span class="token punctuation">(</span>S<span class="token punctuation">.</span><span class="token function">emplace</span><span class="token punctuation">(</span>c<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="34"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="35"></td><td><pre><span class="token keyword">else</span> S<span class="token punctuation">.</span><span class="token function">emplace</span><span class="token punctuation">(</span>c<span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="36"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="37"></td><td><pre></pre></td></tr><tr><td data-num="38"></td><td><pre>cout <span class="token operator">&lt;&lt;</span> <span class="token punctuation">(</span>S<span class="token punctuation">.</span><span class="token function">empty</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">?</span> <span class="token string">"Yes"</span> <span class="token operator">:</span> <span class="token string">"No"</span><span class="token punctuation">)</span> <span class="token operator">&lt;&lt;</span> <span class="token string">"\n"</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="39"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="40"></td><td><pre></pre></td></tr><tr><td data-num="41"></td><td><pre></pre></td></tr><tr><td data-num="42"></td><td><pre><span class="token keyword">return</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="43"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Uva Problems </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C++ </tag>
+            
+            <tag> UVa </tag>
+            
+            <tag> stack </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>UVa 10765 - Doves and Bombs</title>
       <link href="UVa-10765-Doves-and-Bombs/"/>
       <url>UVa-10765-Doves-and-Bombs/</url>
@@ -24,9 +53,9 @@
             
             <tag> UVa </tag>
             
-            <tag> vector </tag>
-            
             <tag> dfs </tag>
+            
+            <tag> vector </tag>
             
             <tag> articulation point </tag>
             
@@ -59,11 +88,11 @@
             
             <tag> UVa </tag>
             
+            <tag> dfs </tag>
+            
             <tag> vector </tag>
             
             <tag> queue </tag>
-            
-            <tag> dfs </tag>
             
             <tag> bridge </tag>
             
@@ -94,9 +123,9 @@
             
             <tag> UVa </tag>
             
-            <tag> vector </tag>
-            
             <tag> dfs </tag>
+            
+            <tag> vector </tag>
             
             <tag> articulation point </tag>
             
@@ -193,9 +222,9 @@
             
             <tag> UVa </tag>
             
-            <tag> vector </tag>
-            
             <tag> dfs </tag>
+            
+            <tag> vector </tag>
             
             <tag> unordered set </tag>
             
@@ -292,13 +321,13 @@
             
             <tag> UVa </tag>
             
-            <tag> vector </tag>
-            
-            <tag> stack </tag>
-            
             <tag> dfs </tag>
             
             <tag> topological sort </tag>
+            
+            <tag> vector </tag>
+            
+            <tag> stack </tag>
             
             <tag> unordered set </tag>
             
@@ -432,9 +461,9 @@
             
             <tag> UVa </tag>
             
-            <tag> vector </tag>
-            
             <tag> dfs </tag>
+            
+            <tag> vector </tag>
             
         </tags>
       
@@ -463,9 +492,9 @@
             
             <tag> UVa </tag>
             
-            <tag> vector </tag>
-            
             <tag> dfs </tag>
+            
+            <tag> vector </tag>
             
         </tags>
       
@@ -614,9 +643,9 @@
             
             <tag> UVa </tag>
             
-            <tag> vector </tag>
-            
             <tag> dfs </tag>
+            
+            <tag> vector </tag>
             
         </tags>
       
@@ -767,9 +796,9 @@
             
             <tag> UVa </tag>
             
-            <tag> stack </tag>
-            
             <tag> dfs </tag>
+            
+            <tag> stack </tag>
             
         </tags>
       
