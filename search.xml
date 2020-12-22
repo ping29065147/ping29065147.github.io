@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>UVa 10050 - Hartals</title>
+      <link href="UVa-10050-Hartals/"/>
+      <url>UVa-10050-Hartals/</url>
+      
+        <content type="html"><![CDATA[<h2 id="題目-uva-10050-hartals"><a class="anchor" href="#題目-uva-10050-hartals">#</a> 題目: <span class="exturl" data-url="aHR0cHM6Ly92anVkZ2UubmV0L3Byb2JsZW0vVVZBLTEwMDUw">UVa 10050 - Hartals</span></h2><h1 id="題目說明"><a class="anchor" href="#題目說明">#</a> 題目說明</h1><p>題目給總天數及各個 <code>party</code>  的間隔天數<br />天數從禮拜天開始算，禮拜天為 <code>day 1</code> <br /> 周五及周六不算<br />求 <code>hartal</code>  的天數</p><p>例如:<br /> 天數 <code>N = 9</code> ， <code>party1 = 3</code> 、 <code>party2 = 4</code></p><table><thead><tr><th style="text-align:center">星期</th><th style="text-align:center">日</th><th style="text-align:center">一</th><th style="text-align:center">二</th><th style="text-align:center">三</th><th style="text-align:center">四</th><th style="text-align:center">五</th><th style="text-align:center">六</th><th style="text-align:center">日</th><th>一</th></tr></thead><tbody><tr><td style="text-align:center">天數</td><td style="text-align:center">day1</td><td style="text-align:center">day2</td><td style="text-align:center">day3</td><td style="text-align:center">day4</td><td style="text-align:center">day5</td><td style="text-align:center">day6</td><td style="text-align:center">day7</td><td style="text-align:center">day8</td></tr><tr><td style="text-align:center">party1</td><td style="text-align:center"></td><td style="text-align:center"></td><td style="text-align:center">o</td><td style="text-align:center"></td><td style="text-align:center"></td><td style="text-align:center">o</td><td style="text-align:center"></td><td style="text-align:center"></td><td>o</td></tr><tr><td style="text-align:center">party2</td><td style="text-align:center"></td><td style="text-align:center"></td><td style="text-align:center"></td><td style="text-align:center">o</td><td style="text-align:center"></td><td style="text-align:center"></td><td style="text-align:center"></td><td style="text-align:center">o</td><td></td></tr><tr><td style="text-align:center">hartal</td><td style="text-align:center"></td><td style="text-align:center"></td><td style="text-align:center">1</td><td style="text-align:center">2</td><td style="text-align:center"></td><td style="text-align:center"></td><td style="text-align:center"></td><td style="text-align:center">3</td><td>4</td></tr></tbody></table><p><code>hartal = 4</code></p><hr /><p><strong>INPUT:</strong><br /> 第一行為一個整數 <code>T</code> ，代表有幾筆資料<br />每筆資料第一行有兩個整數 <code>N</code>  與 <code>P</code></p><ol><li><code>N</code>  代表天數</li><li><code>P</code>  代表有 <code>P</code>  個 <code>party</code> <br /> 接下來有 <code>P</code>  行，每行讀入一個整數代表這個 <code>party</code>  的間隔天數</li></ol><hr /><p><strong>OUTPUT:</strong><br /> 輸出 <code>hartal</code>  的天數</p><h1 id="解題方法"><a class="anchor" href="#解題方法">#</a> 解題方法</h1><p>先將罷工的天數設為 <code>true</code> <br /> 再把周五及周六設為 <code>false</code> <br /> 最後算 <code>true</code>  的次數</p><h1 id="參考程式碼"><a class="anchor" href="#參考程式碼">#</a> 參考程式碼</h1><figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span> <span class="token string">&lt;iostream></span></span></pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span> <span class="token string">&lt;vector></span></span></pre></td></tr><tr><td data-num="3"></td><td><pre></pre></td></tr><tr><td data-num="4"></td><td><pre><span class="token keyword">using</span> <span class="token keyword">namespace</span> std<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="5"></td><td><pre></pre></td></tr><tr><td data-num="6"></td><td><pre><span class="token keyword">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span></pre></td></tr><tr><td data-num="7"></td><td><pre><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="8"></td><td><pre>ios<span class="token operator">::</span><span class="token function">sync_with_stdio</span><span class="token punctuation">(</span><span class="token boolean">false</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="9"></td><td><pre>cin<span class="token punctuation">.</span><span class="token function">tie</span><span class="token punctuation">(</span><span class="token keyword">nullptr</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="10"></td><td><pre>cout<span class="token punctuation">.</span><span class="token function">tie</span><span class="token punctuation">(</span><span class="token keyword">nullptr</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="11"></td><td><pre></pre></td></tr><tr><td data-num="12"></td><td><pre><span class="token keyword">int</span> T<span class="token punctuation">,</span> N<span class="token punctuation">,</span> P<span class="token punctuation">,</span> num<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="13"></td><td><pre>vector<span class="token operator">&lt;</span><span class="token keyword">bool</span><span class="token operator">></span> days<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="14"></td><td><pre></pre></td></tr><tr><td data-num="15"></td><td><pre>cin <span class="token operator">>></span> T<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="16"></td><td><pre><span class="token keyword">while</span> <span class="token punctuation">(</span>T<span class="token operator">--</span><span class="token punctuation">)</span></pre></td></tr><tr><td data-num="17"></td><td><pre><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="18"></td><td><pre>cin <span class="token operator">>></span> N <span class="token operator">>></span> P<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="19"></td><td><pre>days<span class="token punctuation">.</span><span class="token function">assign</span><span class="token punctuation">(</span>N <span class="token operator">+</span> <span class="token number">1</span><span class="token punctuation">,</span> <span class="token boolean">false</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="20"></td><td><pre></pre></td></tr><tr><td data-num="21"></td><td><pre><span class="token keyword">while</span> <span class="token punctuation">(</span>P<span class="token operator">--</span><span class="token punctuation">)</span></pre></td></tr><tr><td data-num="22"></td><td><pre><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="23"></td><td><pre>cin <span class="token operator">>></span> num<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="24"></td><td><pre><span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> num<span class="token punctuation">;</span> i <span class="token operator">&lt;=</span> N<span class="token punctuation">;</span> i <span class="token operator">+=</span> num<span class="token punctuation">)</span> days<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="25"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="26"></td><td><pre></pre></td></tr><tr><td data-num="27"></td><td><pre><span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">6</span><span class="token punctuation">;</span> i <span class="token operator">&lt;=</span> N<span class="token punctuation">;</span> i <span class="token operator">+=</span> <span class="token number">7</span><span class="token punctuation">)</span> days<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> days<span class="token punctuation">[</span>i <span class="token operator">+</span> <span class="token number">1</span><span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">false</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="28"></td><td><pre></pre></td></tr><tr><td data-num="29"></td><td><pre><span class="token keyword">int</span> cnt <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="30"></td><td><pre><span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span> i <span class="token operator">&lt;=</span> N<span class="token punctuation">;</span> <span class="token operator">++</span>i<span class="token punctuation">)</span> <span class="token keyword">if</span> <span class="token punctuation">(</span>days<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">)</span> <span class="token operator">++</span>cnt<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="31"></td><td><pre>cout <span class="token operator">&lt;&lt;</span> cnt <span class="token operator">&lt;&lt;</span> <span class="token string">"\n"</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="32"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="33"></td><td><pre></pre></td></tr><tr><td data-num="34"></td><td><pre><span class="token keyword">return</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="35"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Uva Problems </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C++ </tag>
+            
+            <tag> UVa </tag>
+            
+            <tag> vector </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>UVa 673 - Parentheses Balance</title>
       <link href="UVa-673-Parentheses-Balance/"/>
       <url>UVa-673-Parentheses-Balance/</url>
@@ -53,9 +82,9 @@
             
             <tag> UVa </tag>
             
-            <tag> dfs </tag>
-            
             <tag> vector </tag>
+            
+            <tag> dfs </tag>
             
             <tag> articulation point </tag>
             
@@ -88,11 +117,11 @@
             
             <tag> UVa </tag>
             
-            <tag> dfs </tag>
-            
             <tag> vector </tag>
             
             <tag> queue </tag>
+            
+            <tag> dfs </tag>
             
             <tag> bridge </tag>
             
@@ -123,9 +152,9 @@
             
             <tag> UVa </tag>
             
-            <tag> dfs </tag>
-            
             <tag> vector </tag>
+            
+            <tag> dfs </tag>
             
             <tag> articulation point </tag>
             
@@ -222,9 +251,9 @@
             
             <tag> UVa </tag>
             
-            <tag> dfs </tag>
-            
             <tag> vector </tag>
+            
+            <tag> dfs </tag>
             
             <tag> unordered set </tag>
             
@@ -321,13 +350,13 @@
             
             <tag> UVa </tag>
             
-            <tag> dfs </tag>
-            
-            <tag> topological sort </tag>
-            
             <tag> vector </tag>
             
             <tag> stack </tag>
+            
+            <tag> dfs </tag>
+            
+            <tag> topological sort </tag>
             
             <tag> unordered set </tag>
             
@@ -461,9 +490,9 @@
             
             <tag> UVa </tag>
             
-            <tag> dfs </tag>
-            
             <tag> vector </tag>
+            
+            <tag> dfs </tag>
             
         </tags>
       
@@ -492,9 +521,9 @@
             
             <tag> UVa </tag>
             
-            <tag> dfs </tag>
-            
             <tag> vector </tag>
+            
+            <tag> dfs </tag>
             
         </tags>
       
@@ -507,7 +536,7 @@
       <link href="Data-Structures-UVa-Collections/"/>
       <url>Data-Structures-UVa-Collections/</url>
       
-        <content type="html"><![CDATA[<h1 id="uva-problems-involving-c-stl-map"><a class="anchor" href="#uva-problems-involving-c-stl-map">#</a> UVa problems Involving C++ STL map:</h1><p><a href="https://www.pinghenotes.com/UVa-10226-Hardwood-Species/">UVa 10226 - Hardwood Species</a><br /><a href="https://www.pinghenotes.com/UVa-10282-Babelfish/">UVa 10282 - Babelfish</a><br /><a href="https://www.pinghenotes.com/UVa-11286-Conformity/">UVa 11286 – Conformity</a></p><h1 id="uva-problems-involving-c-stl-set"><a class="anchor" href="#uva-problems-involving-c-stl-set">#</a> UVa problems Involving C++ STL set:</h1><p><a href="https://www.pinghenotes.com/UVa-978-Lemmings-Battle/">UVa 978 - Lemmings Battle!</a><br /><a href="https://www.pinghenotes.com/UVa-11136-Hoax-or-what/">UVa 11136 - Hoax or what</a><br /><a href="https://www.pinghenotes.com/UVa-11572-Unique-Snowflakes/">UVa 11572 - Unique Snowflakes</a></p><h1 id="uva-problems-involving-c-stl-list-and-deque"><a class="anchor" href="#uva-problems-involving-c-stl-list-and-deque">#</a> UVa problems Involving C++ STL list and deque:</h1><p><a href="https://www.pinghenotes.com/UVa-11988-Broken-Keyboard-a-k-a-Beiju-Text/">UVa 11988 - Broken Keyboard (a.k.a. Beiju Text)</a><br /><a href="https://www.pinghenotes.com/UVa-12207-That-is-Your-Queue/">UVa 12207 - That is Your Queue</a></p><h1 id="uva-problems-involving-c-stl-priority_queue"><a class="anchor" href="#uva-problems-involving-c-stl-priority_queue">#</a> UVa problems Involving C++ STL priority_queue:</h1><p><a href="https://www.pinghenotes.com/UVa-1203-Argus/">UVa 1203 - Argus</a><br /><a href="https://www.pinghenotes.com/UVa-10954-Add-All/">UVa 10954 - Add All</a><br /><a href="https://www.pinghenotes.com/UVa-11995-I-Can-Guess-the-Data-Structure/">UVa 11995 - I Can Guess the Data Structure!</a></p><h1 id="uva-problems-involving-c-stl-stack"><a class="anchor" href="#uva-problems-involving-c-stl-stack">#</a> UVa problems Involving C++ STL stack:</h1><p><a href="https://www.pinghenotes.com/UVa-514-Rails/">UVa 514 - Rails</a><br /><a href="https://www.pinghenotes.com/UVa-732-Anagrams-by-Stack/">UVa 732 - Anagrams by Stack</a><br /><a href="https://www.pinghenotes.com/UVa-1062-Containers/">UVa 1062 – Containers</a></p><h1 id="uva-problems-involving-c-stl-queue"><a class="anchor" href="#uva-problems-involving-c-stl-queue">#</a> UVa problems Involving C++ STL queue:</h1><p><a href="https://www.pinghenotes.com/UVa-10172-The-Lonesome-Cargo-Distributor/">UVa 10172 - The Lonesome Cargo Distributor</a><br /><a href="https://www.pinghenotes.com/UVa-10901-Ferry-Loading-III/">UVa 10901 - Ferry Loading III</a><br /><a href="https://www.pinghenotes.com/UVa-11034-Ferry-Loading-IV/">UVa 11034 - Ferry Loading IV</a></p><h1 id="dfs"><a class="anchor" href="#dfs">#</a> DFS:</h1><p><a href="https://www.pinghenotes.com/UVa-168-Theseus-and-the-Minotaur/">UVa 168 - Theseus and the Minotaur</a><br /><a href="https://www.pinghenotes.com/UVa-11906-Knight-in-a-War-Grid/">UVa 11906 - Knight in a War Grid</a><br /><a href="https://www.pinghenotes.com/UVa-12442-Forwarding-Emails/">UVa 12442 - Forwarding Emails</a></p><h1 id="topological-sort"><a class="anchor" href="#topological-sort">#</a> Topological Sort:</h1><p><a href="https://www.pinghenotes.com/UVa-200-Rare-Order/">UVa 200 - Rare Order</a><br /><a href="https://www.pinghenotes.com/UVa-872-Ordering/">UVa 872 - Ordering</a><br /><a href="https://www.pinghenotes.com/UVa-10305-Ordering-Tasks/">UVa 10305 - Ordering Tasks</a></p><h1 id="finding-articulation-points-bridges"><a class="anchor" href="#finding-articulation-points-bridges">#</a> Finding Articulation Points / Bridges:</h1><p><a href="https://www.pinghenotes.com/UVa-315-Network/">UVa 315 - Network</a><br /><a href="https://www.pinghenotes.com/UVa-796-Critical-Links/">UVa 796 - Critical Links</a><br /><a href="https://www.pinghenotes.com/UVa-10765-Doves-and-Bombs/">UVa 10765 - Doves and Bombs</a></p><h1 id="finding-biconnected-bridge-connected-components"><a class="anchor" href="#finding-biconnected-bridge-connected-components">#</a> Finding Biconnected / Bridge Connected Components:</h1><p><a href="https://www.pinghenotes.com/UVa-1108-Mining-Your-Own-Business/">UVa 1108 - Mining Your Own Business</a><br /><a href="https://www.pinghenotes.com/UVa-10972-RevolC-FaeLoN/">UVa 10972 - RevolC FaeLoN</a></p><h1 id="finding-strongly-connected-components"><a class="anchor" href="#finding-strongly-connected-components">#</a> Finding Strongly Connected Components:</h1><p><a href="https://www.pinghenotes.com/UVa-247-Calling-Circles/">UVa 247 - Calling Circles</a><br /><a href="https://www.pinghenotes.com/UVa-11504-Dominos/">UVa 11504 - Dominos</a><br /><a href="https://www.pinghenotes.com/UVa-11838-Come-and-Go/">UVa 11838 - Come and Go</a></p><h1 id="breadth-first-search"><a class="anchor" href="#breadth-first-search">#</a> Breadth-First Search:</h1><p><a href="https://www.pinghenotes.com/UVa-429-Word-Transformation/">UVa 429 - Word Transformation</a><br /><a href="https://www.pinghenotes.com/UVa-924-Spreading-the-News/">UVa 924 - Spreading the News</a><br /><a href="https://www.pinghenotes.com/UVa-10653-Bombs-NO-they-are-Mines/">UVa 10653 - Bombs! NO they are Mines!</a></p><h1 id="minimum-spanning-tree"><a class="anchor" href="#minimum-spanning-tree">#</a> Minimum Spanning Tree:</h1><p><a href="https://www.pinghenotes.com/UVa-11228-Transportation-System/">UVa 11228 - Transportation System</a><br /><a href="https://www.pinghenotes.com/UVa-11631-Dark-Roads/">UVa 11631 - Dark Roads</a><br /><a href="https://www.pinghenotes.com/UVa-11747-Heavy-Cycle-Edges/">UVa 11747 - Heavy Cycle Edges</a></p><h1 id="dijkstras-algorithm"><a class="anchor" href="#dijkstras-algorithm">#</a> Dijkstra’s Algorithm:</h1><p><a href="https://www.pinghenotes.com/UVa-929-Number-Maze/">UVa 929 - Number Maze</a><br /><a href="https://www.pinghenotes.com/UVa-1112-Mice-and-Maze/">UVa 1112 - Mice and Maze</a><br /><a href="https://www.pinghenotes.com/UVa-10986-Sending-email/">UVa 10986 - Sending emai</a></p><h1 id="the-bellman-ford-algorithm"><a class="anchor" href="#the-bellman-ford-algorithm">#</a> The Bellman-Ford Algorithm:</h1><p><a href="https://www.pinghenotes.com/UVa-558-Wormholes/">UVa 558 - Wormholes</a><br /><a href="https://www.pinghenotes.com/UVa-10449-Traffic/">UVa 10449 - Traffic</a><br /><a href="https://www.pinghenotes.com/UVa-10557-XYZZY/">UVa 10557 – XYZZY</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="uva-problems-involving-c-stl-map"><a class="anchor" href="#uva-problems-involving-c-stl-map">#</a> UVa problems Involving C++ STL map:</h1><p><a href="https://www.pinghenotes.com/UVa-10226-Hardwood-Species/">UVa 10226 - Hardwood Species</a><br /><a href="https://www.pinghenotes.com/UVa-10282-Babelfish/">UVa 10282 - Babelfish</a><br /><a href="https://www.pinghenotes.com/UVa-11286-Conformity/">UVa 11286 – Conformity</a></p><h1 id="uva-problems-involving-c-stl-set"><a class="anchor" href="#uva-problems-involving-c-stl-set">#</a> UVa problems Involving C++ STL set:</h1><p><a href="https://www.pinghenotes.com/UVa-978-Lemmings-Battle/">UVa 978 - Lemmings Battle!</a><br /><a href="https://www.pinghenotes.com/UVa-11136-Hoax-or-what/">UVa 11136 - Hoax or what</a><br /><a href="https://www.pinghenotes.com/UVa-11572-Unique-Snowflakes/">UVa 11572 - Unique Snowflakes</a></p><h1 id="uva-problems-involving-c-stl-list-and-deque"><a class="anchor" href="#uva-problems-involving-c-stl-list-and-deque">#</a> UVa problems Involving C++ STL list and deque:</h1><p><a href="https://www.pinghenotes.com/UVa-11988-Broken-Keyboard-a-k-a-Beiju-Text/">UVa 11988 - Broken Keyboard (a.k.a. Beiju Text)</a><br /><a href="https://www.pinghenotes.com/UVa-12207-That-is-Your-Queue/">UVa 12207 - That is Your Queue</a></p><h1 id="uva-problems-involving-c-stl-priority_queue"><a class="anchor" href="#uva-problems-involving-c-stl-priority_queue">#</a> UVa problems Involving C++ STL priority_queue:</h1><p><a href="https://www.pinghenotes.com/UVa-1203-Argus/">UVa 1203 - Argus</a><br /><a href="https://www.pinghenotes.com/UVa-10954-Add-All/">UVa 10954 - Add All</a><br /><a href="https://www.pinghenotes.com/UVa-11995-I-Can-Guess-the-Data-Structure/">UVa 11995 - I Can Guess the Data Structure!</a></p><h1 id="uva-problems-involving-c-stl-stack"><a class="anchor" href="#uva-problems-involving-c-stl-stack">#</a> UVa problems Involving C++ STL stack:</h1><p><a href="https://www.pinghenotes.com/UVa-514-Rails/">UVa 514 - Rails</a><br /><a href="https://www.pinghenotes.com/UVa-732-Anagrams-by-Stack/">UVa 732 - Anagrams by Stack</a><br /><a href="https://www.pinghenotes.com/UVa-1062-Containers/">UVa 1062 – Containers</a><br /><a href="https://www.pinghenotes.com/UVa-673-Parentheses-Balance/">UVa 673 - Parentheses Balance</a></p><h1 id="uva-problems-involving-c-stl-queue"><a class="anchor" href="#uva-problems-involving-c-stl-queue">#</a> UVa problems Involving C++ STL queue:</h1><p><a href="https://www.pinghenotes.com/UVa-10172-The-Lonesome-Cargo-Distributor/">UVa 10172 - The Lonesome Cargo Distributor</a><br /><a href="https://www.pinghenotes.com/UVa-10901-Ferry-Loading-III/">UVa 10901 - Ferry Loading III</a><br /><a href="https://www.pinghenotes.com/UVa-11034-Ferry-Loading-IV/">UVa 11034 - Ferry Loading IV</a></p><h1 id="dfs"><a class="anchor" href="#dfs">#</a> DFS:</h1><p><a href="https://www.pinghenotes.com/UVa-168-Theseus-and-the-Minotaur/">UVa 168 - Theseus and the Minotaur</a><br /><a href="https://www.pinghenotes.com/UVa-11906-Knight-in-a-War-Grid/">UVa 11906 - Knight in a War Grid</a><br /><a href="https://www.pinghenotes.com/UVa-12442-Forwarding-Emails/">UVa 12442 - Forwarding Emails</a></p><h1 id="topological-sort"><a class="anchor" href="#topological-sort">#</a> Topological Sort:</h1><p><a href="https://www.pinghenotes.com/UVa-200-Rare-Order/">UVa 200 - Rare Order</a><br /><a href="https://www.pinghenotes.com/UVa-872-Ordering/">UVa 872 - Ordering</a><br /><a href="https://www.pinghenotes.com/UVa-10305-Ordering-Tasks/">UVa 10305 - Ordering Tasks</a></p><h1 id="finding-articulation-points-bridges"><a class="anchor" href="#finding-articulation-points-bridges">#</a> Finding Articulation Points / Bridges:</h1><p><a href="https://www.pinghenotes.com/UVa-315-Network/">UVa 315 - Network</a><br /><a href="https://www.pinghenotes.com/UVa-796-Critical-Links/">UVa 796 - Critical Links</a><br /><a href="https://www.pinghenotes.com/UVa-10765-Doves-and-Bombs/">UVa 10765 - Doves and Bombs</a></p><h1 id="finding-biconnected-bridge-connected-components"><a class="anchor" href="#finding-biconnected-bridge-connected-components">#</a> Finding Biconnected / Bridge Connected Components:</h1><p><a href="https://www.pinghenotes.com/UVa-1108-Mining-Your-Own-Business/">UVa 1108 - Mining Your Own Business</a><br /><a href="https://www.pinghenotes.com/UVa-10972-RevolC-FaeLoN/">UVa 10972 - RevolC FaeLoN</a></p><h1 id="finding-strongly-connected-components"><a class="anchor" href="#finding-strongly-connected-components">#</a> Finding Strongly Connected Components:</h1><p><a href="https://www.pinghenotes.com/UVa-247-Calling-Circles/">UVa 247 - Calling Circles</a><br /><a href="https://www.pinghenotes.com/UVa-11504-Dominos/">UVa 11504 - Dominos</a><br /><a href="https://www.pinghenotes.com/UVa-11838-Come-and-Go/">UVa 11838 - Come and Go</a></p><h1 id="breadth-first-search"><a class="anchor" href="#breadth-first-search">#</a> Breadth-First Search:</h1><p><a href="https://www.pinghenotes.com/UVa-429-Word-Transformation/">UVa 429 - Word Transformation</a><br /><a href="https://www.pinghenotes.com/UVa-924-Spreading-the-News/">UVa 924 - Spreading the News</a><br /><a href="https://www.pinghenotes.com/UVa-10653-Bombs-NO-they-are-Mines/">UVa 10653 - Bombs! NO they are Mines!</a></p><h1 id="minimum-spanning-tree"><a class="anchor" href="#minimum-spanning-tree">#</a> Minimum Spanning Tree:</h1><p><a href="https://www.pinghenotes.com/UVa-11228-Transportation-System/">UVa 11228 - Transportation System</a><br /><a href="https://www.pinghenotes.com/UVa-11631-Dark-Roads/">UVa 11631 - Dark Roads</a><br /><a href="https://www.pinghenotes.com/UVa-11747-Heavy-Cycle-Edges/">UVa 11747 - Heavy Cycle Edges</a></p><h1 id="dijkstras-algorithm"><a class="anchor" href="#dijkstras-algorithm">#</a> Dijkstra’s Algorithm:</h1><p><a href="https://www.pinghenotes.com/UVa-929-Number-Maze/">UVa 929 - Number Maze</a><br /><a href="https://www.pinghenotes.com/UVa-1112-Mice-and-Maze/">UVa 1112 - Mice and Maze</a><br /><a href="https://www.pinghenotes.com/UVa-10986-Sending-email/">UVa 10986 - Sending emai</a></p><h1 id="the-bellman-ford-algorithm"><a class="anchor" href="#the-bellman-ford-algorithm">#</a> The Bellman-Ford Algorithm:</h1><p><a href="https://www.pinghenotes.com/UVa-558-Wormholes/">UVa 558 - Wormholes</a><br /><a href="https://www.pinghenotes.com/UVa-10449-Traffic/">UVa 10449 - Traffic</a><br /><a href="https://www.pinghenotes.com/UVa-10557-XYZZY/">UVa 10557 – XYZZY</a></p>]]></content>
       
       
       
@@ -643,9 +672,9 @@
             
             <tag> UVa </tag>
             
-            <tag> dfs </tag>
-            
             <tag> vector </tag>
+            
+            <tag> dfs </tag>
             
         </tags>
       
@@ -796,9 +825,9 @@
             
             <tag> UVa </tag>
             
-            <tag> dfs </tag>
-            
             <tag> stack </tag>
+            
+            <tag> dfs </tag>
             
         </tags>
       
