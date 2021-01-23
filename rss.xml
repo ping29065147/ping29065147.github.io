@@ -33,10 +33,10 @@
  &lt;code&gt;&amp;lt;= N&lt;/code&gt;  中有最多因數的整數&lt;/p&gt;
 &lt;h1 id=&#34;解題方法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解題方法&#34;&gt;#&lt;/a&gt; 解題方法&lt;/h1&gt;
 &lt;p&gt;先做質因數分解，透過以下公式能找到每個整數的因數個數&lt;br /&gt;
-假設 24 = 2^3\*3&lt;br /&gt;
+假設  &lt;code&gt;$24 = 2^3 \cdot 3$&lt;/code&gt; &lt;br /&gt;
  其因數為  &lt;code&gt;1, 2, 3, 4, 6, 8, 12, 24&lt;/code&gt; ，共 8 個&lt;br /&gt;
 則將分解後的次方加 1 相乘即為因數個數&lt;br /&gt;
-(3 + 1) \* (1 + 1) = 8&lt;/p&gt;
+ &lt;code&gt;$(3 + 1) \cdot (1 + 1) = 8$&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;先找到 &lt;code&gt;2 - 1000000&lt;/code&gt;  中每個數字的最小因數 (不包括 1)，並建表 &lt;code&gt;fact&lt;/code&gt; &lt;br /&gt;
  對每個數除以它的最小因數，反覆做後能得到次方數&lt;br /&gt;
 將所有次方數加 1 相乘後，則為因數個數，並建表 &lt;code&gt;ans&lt;/code&gt;  儲存&lt;br /&gt;
@@ -126,8 +126,8 @@
             <category term="C++" scheme="https://www.pinghenotes.com/tags/C/" />
             <category term="UVa" scheme="https://www.pinghenotes.com/tags/UVa/" />
             <category term="vector" scheme="https://www.pinghenotes.com/tags/vector/" />
-            <category term="string" scheme="https://www.pinghenotes.com/tags/string/" />
             <category term="map" scheme="https://www.pinghenotes.com/tags/map/" />
+            <category term="string" scheme="https://www.pinghenotes.com/tags/string/" />
             <pubDate>Mon, 11 Jan 2021 21:29:26 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;題目-uva-10415-eb-alto-saxophone-player&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#題目-uva-10415-eb-alto-saxophone-player&#34;&gt;#&lt;/a&gt; 題目: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92anVkZ2UubmV0L3Byb2JsZW0vVVZBLTEwNDE1&#34;&gt;UVa 10415 - Eb Alto Saxophone Player&lt;/span&gt;&lt;/h2&gt;
 &lt;h1 id=&#34;題目說明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#題目說明&#34;&gt;#&lt;/a&gt; 題目說明&lt;/h1&gt;
