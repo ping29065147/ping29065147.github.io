@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>test</title>
+      <link href="test/"/>
+      <url>test/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>UVa 615 - Is It A Tree</title>
       <link href="UVa-615-Is-It-A-Tree/"/>
       <url>UVa-615-Is-It-A-Tree/</url>
