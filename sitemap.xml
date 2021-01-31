@@ -9,13 +9,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/friends/index.html</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/about/index.html</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -23,7 +16,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/cpp-tutorial/C-input-and-output/</loc>
+    <loc>https://www.pinghenotes.com/friends/index.html</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -31,6 +24,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/cpp-tutorial/C-data-type-and-basic-operators/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/cpp-tutorial/C-input-and-output/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -163,14 +163,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-12207-That-is-Your-Queue/</loc>
+    <loc>https://www.pinghenotes.com/UVa-1203-Argus/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-1203-Argus/</loc>
+    <loc>https://www.pinghenotes.com/UVa-12207-That-is-Your-Queue/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -233,13 +233,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11689-Soda-Surpler/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/UVa-11633-Food-portion-sizes/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -247,14 +240,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11747-Heavy-Cycle-Edges/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11689-Soda-Surpler/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11504-Dominos/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11747-Heavy-Cycle-Edges/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -275,6 +268,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-11504-Dominos/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-11536-Smallest-Sub-Array/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -289,14 +289,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11034-Ferry-Loading-IV/</loc>
+    <loc>https://www.pinghenotes.com/UVa-1108-Mining-Your-Own-Business/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-1108-Mining-Your-Own-Business/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11034-Ferry-Loading-IV/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -324,13 +324,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10972-RevolC-FaeLoN/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/UVa-10954-Add-All/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -338,7 +331,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10449-Traffic/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10972-RevolC-FaeLoN/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -352,7 +345,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10765-Doves-and-Bombs/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10449-Traffic/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -367,6 +360,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-10653-Bombs-NO-they-are-Mines/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-10765-Doves-and-Bombs/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -415,14 +415,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10172-The-Lonesome-Cargo-Distributor/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10188-Automated-Judge-Script/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10188-Automated-Judge-Script/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10172-The-Lonesome-Cargo-Distributor/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -466,6 +466,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/tags/string/</loc>
+    <lastmod>2021-01-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/tags/stack/</loc>
     <lastmod>2021-01-31</lastmod>
     <changefreq>daily</changefreq>
@@ -474,13 +481,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/queue/</loc>
-    <lastmod>2021-01-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/string/</loc>
     <lastmod>2021-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -522,6 +522,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/tags/bfs/</loc>
+    <lastmod>2021-01-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/tags/articulation-point/</loc>
     <lastmod>2021-01-31</lastmod>
     <changefreq>daily</changefreq>
@@ -536,7 +543,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/bfs/</loc>
+    <loc>https://www.pinghenotes.com/tags/priority-queue/</loc>
     <lastmod>2021-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -544,13 +551,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/bcc/</loc>
-    <lastmod>2021-01-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/priority-queue/</loc>
     <lastmod>2021-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -571,13 +571,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/scc/</loc>
-    <lastmod>2021-01-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/tags/union-find/</loc>
     <lastmod>2021-01-31</lastmod>
     <changefreq>daily</changefreq>
@@ -586,6 +579,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/kruskcal/</loc>
+    <lastmod>2021-01-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/scc/</loc>
     <lastmod>2021-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
