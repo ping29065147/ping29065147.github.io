@@ -23,6 +23,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/cpp-tutorial/C-input-and-output/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/cpp-tutorial/C-data-type-and-basic-operators/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -31,13 +38,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/cpp-tutorial/C-logical-relational-and-bitwise-operators/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/cpp-tutorial/C-input-and-output/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -128,13 +128,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-315-Network/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/UVa-200-Rare-Order/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -143,6 +136,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-247-Calling-Circles/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-315-Network/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -163,6 +163,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-12207-That-is-Your-Queue/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-1203-Argus/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -171,13 +178,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-12319-Edgetown-s-Traffic-Jams/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/UVa-12207-That-is-Your-Queue/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -198,14 +198,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11960-Divisor-Game/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11906-Knight-in-a-War-Grid/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11906-Knight-in-a-War-Grid/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11960-Divisor-Game/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -233,6 +233,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-11689-Soda-Surpler/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-11633-Food-portion-sizes/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -247,7 +254,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11689-Soda-Surpler/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11504-Dominos/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -262,13 +269,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-11286-Conformity/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/UVa-11504-Dominos/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -296,14 +296,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-1112-Mice-and-Maze/</loc>
+    <loc>https://www.pinghenotes.com/UVa-1108-Mining-Your-Own-Business/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-1108-Mining-Your-Own-Business/</loc>
+    <loc>https://www.pinghenotes.com/UVa-1112-Mice-and-Maze/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -324,6 +324,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-10972-RevolC-FaeLoN/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-10954-Add-All/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -331,7 +338,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10972-RevolC-FaeLoN/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10449-Traffic/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -345,7 +352,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10449-Traffic/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10765-Doves-and-Bombs/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -360,13 +367,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-10653-Bombs-NO-they-are-Mines/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/UVa-10765-Doves-and-Bombs/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -408,14 +408,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10172-The-Lonesome-Cargo-Distributor/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10050-Hartals/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10050-Hartals/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10172-The-Lonesome-Cargo-Distributor/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -522,13 +522,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/bfs/</loc>
-    <lastmod>2021-01-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/tags/articulation-point/</loc>
     <lastmod>2021-01-31</lastmod>
     <changefreq>daily</changefreq>
@@ -543,7 +536,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/priority-queue/</loc>
+    <loc>https://www.pinghenotes.com/tags/bfs/</loc>
     <lastmod>2021-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -551,6 +544,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/bcc/</loc>
+    <lastmod>2021-01-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/priority-queue/</loc>
     <lastmod>2021-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -571,6 +571,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/tags/scc/</loc>
+    <lastmod>2021-01-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/tags/union-find/</loc>
     <lastmod>2021-01-31</lastmod>
     <changefreq>daily</changefreq>
@@ -585,13 +592,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/scc/</loc>
-    <lastmod>2021-01-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/tags/list/</loc>
     <lastmod>2021-01-31</lastmod>
     <changefreq>daily</changefreq>
@@ -599,14 +599,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/Floyd-Warshall/</loc>
+    <loc>https://www.pinghenotes.com/tags/deque/</loc>
     <lastmod>2021-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/deque/</loc>
+    <loc>https://www.pinghenotes.com/tags/Floyd-Warshall/</loc>
     <lastmod>2021-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
