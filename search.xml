@@ -295,9 +295,9 @@
             
             <tag> vector </tag>
             
-            <tag> string </tag>
-            
             <tag> map </tag>
+            
+            <tag> string </tag>
             
         </tags>
       
