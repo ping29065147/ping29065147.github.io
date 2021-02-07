@@ -44,14 +44,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/cpp-tutorial/C-input-and-output/</loc>
+    <loc>https://www.pinghenotes.com/cpp-tutorial/C-data-type-and-basic-operators/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/cpp-tutorial/C-data-type-and-basic-operators/</loc>
+    <loc>https://www.pinghenotes.com/cpp-tutorial/C-input-and-output/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -100,14 +100,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-732-Anagrams-by-Stack/</loc>
+    <loc>https://www.pinghenotes.com/UVa-796-Critical-Links/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-796-Critical-Links/</loc>
+    <loc>https://www.pinghenotes.com/UVa-732-Anagrams-by-Stack/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -184,13 +184,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-1203-Argus/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/UVa-12207-That-is-Your-Queue/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -198,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-12442-Forwarding-Emails/</loc>
+    <loc>https://www.pinghenotes.com/UVa-1203-Argus/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -212,7 +205,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11838-Come-and-Go/</loc>
+    <loc>https://www.pinghenotes.com/UVa-12442-Forwarding-Emails/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -220,6 +213,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-11906-Knight-in-a-War-Grid/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-11838-Come-and-Go/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -261,13 +261,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11689-Soda-Surpler/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/UVa-11747-Heavy-Cycle-Edges/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -275,7 +268,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11228-Transportation-System/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11689-Soda-Surpler/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -283,6 +276,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-11286-Conformity/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-11228-Transportation-System/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -303,14 +303,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11034-Ferry-Loading-IV/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10986-Sending-email/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10986-Sending-email/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11034-Ferry-Loading-IV/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -324,13 +324,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11136-Hoax-or-what/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/UVa-1112-Mice-and-Maze/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -338,7 +331,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10901-Ferry-Loading-III/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11136-Hoax-or-what/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -353,6 +346,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-10972-RevolC-FaeLoN/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-10901-Ferry-Loading-III/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -380,6 +380,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-10653-Bombs-NO-they-are-Mines/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-10765-Doves-and-Bombs/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -387,7 +394,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10653-Bombs-NO-they-are-Mines/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10267-Graphical-Editor/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -402,13 +409,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-10282-Babelfish/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/UVa-10267-Graphical-Editor/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -501,13 +501,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/map/</loc>
-    <lastmod>2021-02-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/tags/string/</loc>
     <lastmod>2021-02-07</lastmod>
     <changefreq>daily</changefreq>
@@ -516,6 +509,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/dfs/</loc>
+    <lastmod>2021-02-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/map/</loc>
     <lastmod>2021-02-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -543,6 +543,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/tags/bfs/</loc>
+    <lastmod>2021-02-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/tags/articulation-point/</loc>
     <lastmod>2021-02-07</lastmod>
     <changefreq>daily</changefreq>
@@ -551,13 +558,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/bridge/</loc>
-    <lastmod>2021-02-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/bfs/</loc>
     <lastmod>2021-02-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
