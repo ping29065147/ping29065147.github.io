@@ -19,7 +19,7 @@
             <category term="C++" scheme="https://www.pinghenotes.com/tags/C/" />
             <category term="UVa" scheme="https://www.pinghenotes.com/tags/UVa/" />
             <pubDate>Sun, 07 Feb 2021 20:56:50 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;cpe官網&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#cpe官網&#34;&gt;#&lt;/a&gt; &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jcGUuY3NlLm5zeXN1LmVkdS50dy8=&#34;&gt;CPE 官網&lt;/span&gt;&lt;/h1&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;strong&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jcGUuY3NlLm5zeXN1LmVkdS50dy8=&#34;&gt;CPE 官網&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h1 id=&#34;cpe介紹&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#cpe介紹&#34;&gt;#&lt;/a&gt; CPE 介紹&lt;/h1&gt;
 &lt;p&gt;&lt;code&gt;CPE&lt;/code&gt;  的全名為 &lt;code&gt;Collegiate Programming Examination&lt;/code&gt; ，中文為 &lt;code&gt;大學程式能力檢定&lt;/code&gt; &lt;br /&gt;
  &lt;code&gt;CPE&lt;/code&gt;  的目標是做為全台灣程式檢定的標準與提升台灣學生的程式能力，目前已經有多校將其列入畢業門檻&lt;br /&gt;
@@ -468,8 +468,8 @@
             <category term="C++" scheme="https://www.pinghenotes.com/tags/C/" />
             <category term="UVa" scheme="https://www.pinghenotes.com/tags/UVa/" />
             <category term="vector" scheme="https://www.pinghenotes.com/tags/vector/" />
-            <category term="string" scheme="https://www.pinghenotes.com/tags/string/" />
             <category term="map" scheme="https://www.pinghenotes.com/tags/map/" />
+            <category term="string" scheme="https://www.pinghenotes.com/tags/string/" />
             <pubDate>Mon, 11 Jan 2021 21:29:26 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;題目-uva-10415-eb-alto-saxophone-player&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#題目-uva-10415-eb-alto-saxophone-player&#34;&gt;#&lt;/a&gt; 題目: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92anVkZ2UubmV0L3Byb2JsZW0vVVZBLTEwNDE1&#34;&gt;UVa 10415 - Eb Alto Saxophone Player&lt;/span&gt;&lt;/h2&gt;
 &lt;h1 id=&#34;題目說明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#題目說明&#34;&gt;#&lt;/a&gt; 題目說明&lt;/h1&gt;
