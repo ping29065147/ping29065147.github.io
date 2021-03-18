@@ -198,7 +198,7 @@
       <link href="Introduction-to-Algorithms-UVa-Collections/"/>
       <url>Introduction-to-Algorithms-UVa-Collections/</url>
       
-        <content type="html"><![CDATA[<h1 id="dynamic-programming"><a class="anchor" href="#dynamic-programming">#</a> Dynamic programming</h1><p><a href="https://www.pinghenotes.com/UVa-10337-Flight-Planner/">UVa 10337 - Flight Planner</a><br /><a href="https://www.pinghenotes.com/UVa-10721-Bar-Codes/">UVa 10721 - Bar Codes</a><br /><a href="https://www.pinghenotes.com/UVa-10943-How-do-you-add/">UVa 10943 - How do you add</a></p><hr /><p><a href="https://www.pinghenotes.com/UVa-10003-Cutting-Sticks/">UVa 10003 - Cutting Sticks</a><br /><a href="https://www.pinghenotes.com/UVa-10912-Simple-Minded-Hashing/">UVa 10912 - Simple Minded Hashing</a><br /><a href="https://www.pinghenotes.com/UVa-11420-Chest-of-Drawers/">UVa 11420 - Chest of Drawers</a></p><h1 id="dynamic-programming-longest-increasing-subsequence"><a class="anchor" href="#dynamic-programming-longest-increasing-subsequence">#</a> Dynamic programming (Longest Increasing Subsequence)</h1><p><a href="https://www.pinghenotes.com/UVa-481-What-Goes-Up/">UVa 481 - What Goes Up</a><br /><a href="https://www.pinghenotes.com/UVa-11456-Trainsorting/">UVa 11456 - Trainsorting</a><br /><a href="https://www.pinghenotes.com/UVa-11790-Murcia-s-Skyline/">UVa 11790 - Murcia's Skyline</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="dynamic-programming"><a class="anchor" href="#dynamic-programming">#</a> Dynamic programming</h1><p><a href="https://www.pinghenotes.com/UVa-10337-Flight-Planner/">UVa 10337 - Flight Planner</a><br /><a href="https://www.pinghenotes.com/UVa-10721-Bar-Codes/">UVa 10721 - Bar Codes</a><br /><a href="https://www.pinghenotes.com/UVa-10943-How-do-you-add/">UVa 10943 - How do you add</a></p><hr /><p><a href="https://www.pinghenotes.com/UVa-10003-Cutting-Sticks/">UVa 10003 - Cutting Sticks</a><br /><a href="https://www.pinghenotes.com/UVa-10912-Simple-Minded-Hashing/">UVa 10912 - Simple Minded Hashing</a><br /><a href="https://www.pinghenotes.com/UVa-11420-Chest-of-Drawers/">UVa 11420 - Chest of Drawers</a></p><h1 id="dynamic-programming-longest-increasing-subsequence"><a class="anchor" href="#dynamic-programming-longest-increasing-subsequence">#</a> Dynamic programming (Longest Increasing Subsequence)</h1><p><a href="https://www.pinghenotes.com/UVa-481-What-Goes-Up/">UVa 481 - What Goes Up</a><br /><a href="https://www.pinghenotes.com/UVa-11456-Trainsorting/">UVa 11456 - Trainsorting</a><br /><a href="https://www.pinghenotes.com/UVa-11790-Murcia-s-Skyline/">UVa 11790 - Murcia's Skyline</a></p><h1 id="dynamic-programming-0-1-knapsack"><a class="anchor" href="#dynamic-programming-0-1-knapsack">#</a> Dynamic programming (0-1 Knapsack)</h1><p><a href="https://www.pinghenotes.com/UVa-1213-Sum-of-Different-Primes/">UVa 1213 - Sum of Different Primes</a><br /><a href="https://www.pinghenotes.com/UVa-10616-Divisible-Group-Sums/">UVa 10616 - Divisible Group Sums</a><br /><a href="https://www.pinghenotes.com/UVa-11566-Let-s-Yum-Cha/">UVa 11566 - Let's Yum Cha</a></p>]]></content>
       
       
       
@@ -380,9 +380,9 @@
             
             <tag> UVa </tag>
             
-            <tag> vector </tag>
-            
             <tag> DP </tag>
+            
+            <tag> vector </tag>
             
         </tags>
       
@@ -817,9 +817,9 @@
             
             <tag> vector </tag>
             
-            <tag> map </tag>
-            
             <tag> string </tag>
+            
+            <tag> map </tag>
             
         </tags>
       

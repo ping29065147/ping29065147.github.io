@@ -97,7 +97,7 @@
             "url": "https://www.pinghenotes.com/Introduction-to-Algorithms-UVa-Collections/",
             "title": "Introduction to Algorithms UVa Collections",
             "date_published": "2021-03-03T15:12:25.000Z",
-            "content_html": "<h1 id=\"dynamic-programming\"><a class=\"anchor\" href=\"#dynamic-programming\">#</a> Dynamic programming</h1>\n<p><a href=\"https://www.pinghenotes.com/UVa-10337-Flight-Planner/\">UVa 10337 - Flight Planner</a><br />\n<a href=\"https://www.pinghenotes.com/UVa-10721-Bar-Codes/\">UVa 10721 - Bar Codes</a><br />\n<a href=\"https://www.pinghenotes.com/UVa-10943-How-do-you-add/\">UVa 10943 - How do you add</a></p>\n<hr />\n<p><a href=\"https://www.pinghenotes.com/UVa-10003-Cutting-Sticks/\">UVa 10003 - Cutting Sticks</a><br />\n<a href=\"https://www.pinghenotes.com/UVa-10912-Simple-Minded-Hashing/\">UVa 10912 - Simple Minded Hashing</a><br />\n<a href=\"https://www.pinghenotes.com/UVa-11420-Chest-of-Drawers/\">UVa 11420 - Chest of Drawers</a></p>\n<h1 id=\"dynamic-programming-longest-increasing-subsequence\"><a class=\"anchor\" href=\"#dynamic-programming-longest-increasing-subsequence\">#</a> Dynamic programming (Longest Increasing Subsequence)</h1>\n<p><a href=\"https://www.pinghenotes.com/UVa-481-What-Goes-Up/\">UVa 481 - What Goes Up</a><br />\n<a href=\"https://www.pinghenotes.com/UVa-11456-Trainsorting/\">UVa 11456 - Trainsorting</a><br />\n<a href=\"https://www.pinghenotes.com/UVa-11790-Murcia-s-Skyline/\">UVa 11790 - Murcia's Skyline</a></p>\n",
+            "content_html": "<h1 id=\"dynamic-programming\"><a class=\"anchor\" href=\"#dynamic-programming\">#</a> Dynamic programming</h1>\n<p><a href=\"https://www.pinghenotes.com/UVa-10337-Flight-Planner/\">UVa 10337 - Flight Planner</a><br />\n<a href=\"https://www.pinghenotes.com/UVa-10721-Bar-Codes/\">UVa 10721 - Bar Codes</a><br />\n<a href=\"https://www.pinghenotes.com/UVa-10943-How-do-you-add/\">UVa 10943 - How do you add</a></p>\n<hr />\n<p><a href=\"https://www.pinghenotes.com/UVa-10003-Cutting-Sticks/\">UVa 10003 - Cutting Sticks</a><br />\n<a href=\"https://www.pinghenotes.com/UVa-10912-Simple-Minded-Hashing/\">UVa 10912 - Simple Minded Hashing</a><br />\n<a href=\"https://www.pinghenotes.com/UVa-11420-Chest-of-Drawers/\">UVa 11420 - Chest of Drawers</a></p>\n<h1 id=\"dynamic-programming-longest-increasing-subsequence\"><a class=\"anchor\" href=\"#dynamic-programming-longest-increasing-subsequence\">#</a> Dynamic programming (Longest Increasing Subsequence)</h1>\n<p><a href=\"https://www.pinghenotes.com/UVa-481-What-Goes-Up/\">UVa 481 - What Goes Up</a><br />\n<a href=\"https://www.pinghenotes.com/UVa-11456-Trainsorting/\">UVa 11456 - Trainsorting</a><br />\n<a href=\"https://www.pinghenotes.com/UVa-11790-Murcia-s-Skyline/\">UVa 11790 - Murcia's Skyline</a></p>\n<h1 id=\"dynamic-programming-0-1-knapsack\"><a class=\"anchor\" href=\"#dynamic-programming-0-1-knapsack\">#</a> Dynamic programming (0-1 Knapsack)</h1>\n<p><a href=\"https://www.pinghenotes.com/UVa-1213-Sum-of-Different-Primes/\">UVa 1213 - Sum of Different Primes</a><br />\n<a href=\"https://www.pinghenotes.com/UVa-10616-Divisible-Group-Sums/\">UVa 10616 - Divisible Group Sums</a><br />\n<a href=\"https://www.pinghenotes.com/UVa-11566-Let-s-Yum-Cha/\">UVa 11566 - Let's Yum Cha</a></p>\n",
             "tags": [
                 "C++",
                 "UVa"
@@ -178,8 +178,8 @@
                 "Uva Problems",
                 "C++",
                 "UVa",
-                "vector",
-                "DP"
+                "DP",
+                "vector"
             ]
         },
         {

@@ -286,6 +286,10 @@
 &lt;p&gt;&lt;a href=&#34;https://www.pinghenotes.com/UVa-481-What-Goes-Up/&#34;&gt;UVa 481 - What Goes Up&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://www.pinghenotes.com/UVa-11456-Trainsorting/&#34;&gt;UVa 11456 - Trainsorting&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://www.pinghenotes.com/UVa-11790-Murcia-s-Skyline/&#34;&gt;UVa 11790 - Murcia&#39;s Skyline&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;dynamic-programming-0-1-knapsack&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dynamic-programming-0-1-knapsack&#34;&gt;#&lt;/a&gt; Dynamic programming (0-1 Knapsack)&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.pinghenotes.com/UVa-1213-Sum-of-Different-Primes/&#34;&gt;UVa 1213 - Sum of Different Primes&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.pinghenotes.com/UVa-10616-Divisible-Group-Sums/&#34;&gt;UVa 10616 - Divisible Group Sums&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.pinghenotes.com/UVa-11566-Let-s-Yum-Cha/&#34;&gt;UVa 11566 - Let&#39;s Yum Cha&lt;/a&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
@@ -544,8 +548,8 @@ L = 3, S = 10&lt;br /&gt;
             <category term="Uva Problems" scheme="https://www.pinghenotes.com/categories/Uva-Problems/" />
             <category term="C++" scheme="https://www.pinghenotes.com/tags/C/" />
             <category term="UVa" scheme="https://www.pinghenotes.com/tags/UVa/" />
-            <category term="vector" scheme="https://www.pinghenotes.com/tags/vector/" />
             <category term="DP" scheme="https://www.pinghenotes.com/tags/DP/" />
+            <category term="vector" scheme="https://www.pinghenotes.com/tags/vector/" />
             <pubDate>Wed, 24 Feb 2021 17:52:04 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;題目-uva-10337-flight-planner&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#題目-uva-10337-flight-planner&#34;&gt;#&lt;/a&gt; 題目: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92anVkZ2UubmV0L3Byb2JsZW0vVVZBLTEwMzM3&#34;&gt;UVa 10337 - Flight Planner&lt;/span&gt;&lt;/h2&gt;
 &lt;h1 id=&#34;題目說明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#題目說明&#34;&gt;#&lt;/a&gt; 題目說明&lt;/h1&gt;
