@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.pinghenotes.com/Introduction-to-Algorithms-UVa-Collections/</loc>
+    
+    <lastmod>2021-04-02</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-11463-Commandos/</loc>
     
     <lastmod>2021-04-02</lastmod>
@@ -31,13 +38,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-11495-Bubbles-and-Buckets/</loc>
-    
-    <lastmod>2021-03-31</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/Introduction-to-Algorithms-UVa-Collections/</loc>
     
     <lastmod>2021-03-31</lastmod>
     
@@ -233,13 +233,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/cpp-tutorial/C-input-and-output/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/cpp-tutorial/C-data-type-and-basic-operators/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -248,6 +241,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/cpp-tutorial/C-logical-relational-and-bitwise-operators/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/cpp-tutorial/C-input-and-output/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -366,14 +366,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-1203-Argus/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11995-I-Can-Guess-the-Data-Structure/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11995-I-Can-Guess-the-Data-Structure/</loc>
+    <loc>https://www.pinghenotes.com/UVa-1203-Argus/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -415,13 +415,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11988-Broken-Keyboard-a-k-a-Beiju-Text/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/UVa-11960-Divisor-Game/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -429,7 +422,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11572-Unique-Snowflakes/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11988-Broken-Keyboard-a-k-a-Beiju-Text/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -437,6 +430,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-11631-Dark-Roads/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-11572-Unique-Snowflakes/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -464,14 +464,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11228-Transportation-System/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11286-Conformity/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11286-Conformity/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11228-Transportation-System/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -534,14 +534,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10954-Add-All/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10972-RevolC-FaeLoN/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10972-RevolC-FaeLoN/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10954-Add-All/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -583,13 +583,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10267-Graphical-Editor/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/UVa-10226-Hardwood-Species/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -598,6 +591,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-10282-Babelfish/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-10267-Graphical-Editor/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -711,14 +711,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/dfs/</loc>
+    <loc>https://www.pinghenotes.com/tags/map/</loc>
     <lastmod>2021-04-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/map/</loc>
+    <loc>https://www.pinghenotes.com/tags/dfs/</loc>
     <lastmod>2021-04-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -781,14 +781,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/priority-queue/</loc>
+    <loc>https://www.pinghenotes.com/tags/bcc/</loc>
     <lastmod>2021-04-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/bcc/</loc>
+    <loc>https://www.pinghenotes.com/tags/priority-queue/</loc>
     <lastmod>2021-04-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
