@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.pinghenotes.com/Introduction-to-Algorithms-UVa-Collections/</loc>
+    
+    <lastmod>2021-05-10</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-12125-March-of-the-Penguins/</loc>
     
     <lastmod>2021-05-10</lastmod>
@@ -26,13 +33,6 @@
     <loc>https://www.pinghenotes.com/UVa-10330-Power-Transmission/</loc>
     
     <lastmod>2021-05-06</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/Introduction-to-Algorithms-UVa-Collections/</loc>
-    
-    <lastmod>2021-04-30</lastmod>
     
   </url>
   
@@ -492,14 +492,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11988-Broken-Keyboard-a-k-a-Beiju-Text/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11960-Divisor-Game/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11960-Divisor-Game/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11988-Broken-Keyboard-a-k-a-Beiju-Text/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -520,14 +520,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11689-Soda-Surpler/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11633-Food-portion-sizes/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11633-Food-portion-sizes/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11689-Soda-Surpler/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -667,14 +667,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10282-Babelfish/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10267-Graphical-Editor/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10267-Graphical-Editor/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10282-Babelfish/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -695,14 +695,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10172-The-Lonesome-Cargo-Distributor/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10050-Hartals/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10050-Hartals/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10172-The-Lonesome-Cargo-Distributor/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -760,6 +760,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/tags/Floyd-Warshall/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/tags/stack/</loc>
     <lastmod>2021-05-10</lastmod>
     <changefreq>daily</changefreq>
@@ -774,7 +781,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/Floyd-Warshall/</loc>
+    <loc>https://www.pinghenotes.com/tags/string/</loc>
     <lastmod>2021-05-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -782,13 +789,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/map/</loc>
-    <lastmod>2021-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/string/</loc>
     <lastmod>2021-05-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -837,20 +837,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/unordered-set/</loc>
-    <lastmod>2021-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/bellman/</loc>
-    <lastmod>2021-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/tags/LIS/</loc>
     <lastmod>2021-05-10</lastmod>
     <changefreq>daily</changefreq>
@@ -866,6 +852,20 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/greedy/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/unordered-set/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/bellman/</loc>
     <lastmod>2021-05-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -928,6 +928,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/tags/set/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/tags/union-find/</loc>
     <lastmod>2021-05-10</lastmod>
     <changefreq>daily</changefreq>
@@ -936,13 +943,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/kruskcal/</loc>
-    <lastmod>2021-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/set/</loc>
     <lastmod>2021-05-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
