@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-11096-Nails/</loc>
+    
+    <lastmod>2021-05-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-1206-Boundary-Points/</loc>
     
     <lastmod>2021-05-13</lastmod>
@@ -436,14 +443,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-315-Network/</loc>
+    <loc>https://www.pinghenotes.com/UVa-247-Calling-Circles/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-247-Calling-Circles/</loc>
+    <loc>https://www.pinghenotes.com/UVa-315-Network/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -457,14 +464,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11995-I-Can-Guess-the-Data-Structure/</loc>
+    <loc>https://www.pinghenotes.com/UVa-1203-Argus/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-1203-Argus/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11995-I-Can-Guess-the-Data-Structure/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -774,6 +781,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/tags/Floyd-Warshall/</loc>
+    <lastmod>2021-05-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/tags/stack/</loc>
     <lastmod>2021-05-13</lastmod>
     <changefreq>daily</changefreq>
@@ -803,13 +817,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/dfs/</loc>
-    <lastmod>2021-05-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/Floyd-Warshall/</loc>
     <lastmod>2021-05-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -942,6 +949,20 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/tags/Convex-Hull/</loc>
+    <lastmod>2021-05-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/Andrew-s-Monotone-Chain/</loc>
+    <lastmod>2021-05-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/tags/set/</loc>
     <lastmod>2021-05-13</lastmod>
     <changefreq>daily</changefreq>
@@ -978,20 +999,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/list/</loc>
-    <lastmod>2021-05-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/Convex-Hull/</loc>
-    <lastmod>2021-05-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/Andrew-s-Monotone-Chain/</loc>
     <lastmod>2021-05-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
