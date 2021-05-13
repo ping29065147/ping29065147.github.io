@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-681-Convex-Hull-Finding/</loc>
+    
+    <lastmod>2021-05-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/Introduction-to-Algorithms-UVa-Collections/</loc>
     
     <lastmod>2021-05-10</lastmod>
@@ -485,14 +492,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11960-Divisor-Game/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11906-Knight-in-a-War-Grid/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11906-Knight-in-a-War-Grid/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11960-Divisor-Game/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -506,14 +513,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11631-Dark-Roads/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11572-Unique-Snowflakes/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11572-Unique-Snowflakes/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11631-Dark-Roads/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -569,21 +576,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10986-Sending-email/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/UVa-1108-Mining-Your-Own-Business/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/UVa-11034-Ferry-Loading-IV/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-10986-Sending-email/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -598,6 +598,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-11136-Hoax-or-what/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-1108-Mining-Your-Own-Business/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -639,14 +646,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10653-Bombs-NO-they-are-Mines/</loc>
+    <loc>https://www.pinghenotes.com/UVa-1062-Containers/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-1062-Containers/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10653-Bombs-NO-they-are-Mines/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -809,6 +816,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/tags/Coin-Change/</loc>
+    <lastmod>2021-05-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/tags/Maximum-flow/</loc>
     <lastmod>2021-05-13</lastmod>
     <changefreq>daily</changefreq>
@@ -824,13 +838,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/Edmonds-Karp/</loc>
-    <lastmod>2021-05-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/Coin-Change/</loc>
     <lastmod>2021-05-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -971,6 +978,20 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/deque/</loc>
+    <lastmod>2021-05-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/Convex-Hull/</loc>
+    <lastmod>2021-05-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/Andrew-s-Monotone-Chain/</loc>
     <lastmod>2021-05-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
