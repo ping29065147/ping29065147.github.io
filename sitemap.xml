@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-10806-Dijkstra-Dijkstra/</loc>
+    
+    <lastmod>2021-05-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-10594-Data-Flow/</loc>
     
-    <lastmod>2021-05-26</lastmod>
+    <lastmod>2021-05-29</lastmod>
     
   </url>
   
@@ -338,14 +345,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/friends/index.html</loc>
+    <loc>https://www.pinghenotes.com/about/index.html</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/about/index.html</loc>
+    <loc>https://www.pinghenotes.com/friends/index.html</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -485,13 +492,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-1203-Argus/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/UVa-11995-I-Can-Guess-the-Data-Structure/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -499,7 +499,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-12319-Edgetown-s-Traffic-Jams/</loc>
+    <loc>https://www.pinghenotes.com/UVa-1203-Argus/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -507,6 +507,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-12207-That-is-Your-Queue/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-12319-Edgetown-s-Traffic-Jams/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -562,7 +569,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11747-Heavy-Cycle-Edges/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11633-Food-portion-sizes/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -576,7 +583,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11633-Food-portion-sizes/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11747-Heavy-Cycle-Edges/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -618,20 +625,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-1112-Mice-and-Maze/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/UVa-11136-Hoax-or-what/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/UVa-1108-Mining-Your-Own-Business/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -646,7 +639,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10972-RevolC-FaeLoN/</loc>
+    <loc>https://www.pinghenotes.com/UVa-1112-Mice-and-Maze/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-11136-Hoax-or-what/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -667,7 +667,21 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-10972-RevolC-FaeLoN/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-10449-Traffic/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-10557-XYZZY/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -688,13 +702,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10557-XYZZY/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/UVa-10765-Doves-and-Bombs/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -709,13 +716,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10267-Graphical-Editor/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/UVa-10282-Babelfish/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -723,7 +723,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10415-Eb-Alto-Saxophone-Player/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10267-Graphical-Editor/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -731,6 +731,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-10305-Ordering-Tasks/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-10415-Eb-Alto-Saxophone-Player/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -788,6 +795,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/tags/DP/</loc>
+    <lastmod>2021-05-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/tags/vector/</loc>
     <lastmod>2021-05-29</lastmod>
     <changefreq>daily</changefreq>
@@ -796,13 +810,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/Floyd-Warshall/</loc>
-    <lastmod>2021-05-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/DP/</loc>
     <lastmod>2021-05-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -858,6 +865,20 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/tags/Coin-Change/</loc>
+    <lastmod>2021-05-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/topological-sort/</loc>
+    <lastmod>2021-05-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/tags/Maximum-flow/</loc>
     <lastmod>2021-05-29</lastmod>
     <changefreq>daily</changefreq>
@@ -879,14 +900,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/Coin-Change/</loc>
+    <loc>https://www.pinghenotes.com/tags/unordered-set/</loc>
     <lastmod>2021-05-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/topological-sort/</loc>
+    <loc>https://www.pinghenotes.com/tags/bellman/</loc>
     <lastmod>2021-05-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -921,14 +942,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/unordered-set/</loc>
-    <lastmod>2021-05-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/bellman/</loc>
+    <loc>https://www.pinghenotes.com/tags/Minimum-cost/</loc>
     <lastmod>2021-05-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -949,13 +963,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/Minimum-cost/</loc>
-    <lastmod>2021-05-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/tags/articulation-point/</loc>
     <lastmod>2021-05-29</lastmod>
     <changefreq>daily</changefreq>
@@ -970,13 +977,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/bcc/</loc>
-    <lastmod>2021-05-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/tags/priority-queue/</loc>
     <lastmod>2021-05-29</lastmod>
     <changefreq>daily</changefreq>
@@ -985,6 +985,27 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/dijkstra/</loc>
+    <lastmod>2021-05-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/bcc/</loc>
+    <lastmod>2021-05-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/Convex-Hull/</loc>
+    <lastmod>2021-05-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/Andrew-s-Monotone-Chain/</loc>
     <lastmod>2021-05-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1006,20 +1027,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/kruskcal/</loc>
-    <lastmod>2021-05-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/Convex-Hull/</loc>
-    <lastmod>2021-05-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/Andrew-s-Monotone-Chain/</loc>
     <lastmod>2021-05-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
