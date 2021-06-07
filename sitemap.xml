@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-11096-Nails/</loc>
+    
+    <lastmod>2021-06-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-1206-Boundary-Points/</loc>
+    
+    <lastmod>2021-06-07</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-681-Convex-Hull-Finding/</loc>
     
     <lastmod>2021-06-07</lastmod>
@@ -75,20 +89,6 @@
     <loc>https://www.pinghenotes.com/UVa-10245-The-Closest-Pair-Problem/</loc>
     
     <lastmod>2021-05-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/UVa-11096-Nails/</loc>
-    
-    <lastmod>2021-05-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/UVa-1206-Boundary-Points/</loc>
-    
-    <lastmod>2021-05-13</lastmod>
     
   </url>
   
@@ -359,14 +359,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/friends/index.html</loc>
+    <loc>https://www.pinghenotes.com/about/index.html</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/about/index.html</loc>
+    <loc>https://www.pinghenotes.com/friends/index.html</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -506,14 +506,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11995-I-Can-Guess-the-Data-Structure/</loc>
+    <loc>https://www.pinghenotes.com/UVa-1203-Argus/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-1203-Argus/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11995-I-Can-Guess-the-Data-Structure/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -576,14 +576,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11689-Soda-Surpler/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/UVa-11747-Heavy-Cycle-Edges/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11633-Food-portion-sizes/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -597,7 +590,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11633-Food-portion-sizes/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11689-Soda-Surpler/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-11747-Heavy-Cycle-Edges/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -851,6 +851,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/tags/dfs/</loc>
+    <lastmod>2021-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/tags/Closest-Pair/</loc>
     <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
@@ -859,13 +866,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/DNC/</loc>
-    <lastmod>2021-06-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/dfs/</loc>
     <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -963,13 +963,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/Kadane-s-Algorithm/</loc>
-    <lastmod>2021-06-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/tags/articulation-point/</loc>
     <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
@@ -978,6 +971,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/bridge/</loc>
+    <lastmod>2021-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/Kadane-s-Algorithm/</loc>
     <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
