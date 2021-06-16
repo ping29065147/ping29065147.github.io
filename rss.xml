@@ -16,6 +16,7 @@
             <guid isPermalink="true">https://www.pinghenotes.com/Java-Gobang/</guid>
             <title>Java Gobang 五子棋</title>
             <link>https://www.pinghenotes.com/Java-Gobang/</link>
+            <category term="java program" scheme="https://www.pinghenotes.com/categories/java-program/" />
             <category term="Java" scheme="https://www.pinghenotes.com/tags/Java/" />
             <category term="Gobang" scheme="https://www.pinghenotes.com/tags/Gobang/" />
             <pubDate>Sun, 13 Jun 2021 22:13:16 +0800</pubDate>
