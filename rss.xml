@@ -20,8 +20,7 @@
             <category term="steam" scheme="https://www.pinghenotes.com/tags/steam/" />
             <pubDate>Sun, 10 Oct 2021 20:13:24 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;ab-是一款只有一條指令的編碼遊戲&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ab-是一款只有一條指令的編碼遊戲&#34;&gt;#&lt;/a&gt; &lt;strong&gt;&amp;lt;a=b&amp;gt;&lt;/strong&gt; 是一款只有一條指令的編碼遊戲&lt;/h1&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL2FwcC8xNzIwODUwL0FCLz8=&#34;&gt;&amp;lt;a=b&amp;gt; Steam 網頁連結&lt;/span&gt;&lt;/p&gt;
-&lt;hr /&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL2FwcC8xNzIwODUwL0FCLz8=&#34;&gt;&amp;lt;a=b&amp;gt; Steam 遊戲連結&lt;/span&gt;&lt;/p&gt;
 &lt;h1 id=&#34;指令說明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指令說明&#34;&gt;#&lt;/a&gt; 指令說明&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;第一章&lt;/strong&gt; :  &lt;code&gt;string1 = string2&lt;/code&gt;  將 &lt;code&gt;string1&lt;/code&gt;  替換成 &lt;code&gt;string2&lt;/code&gt; &lt;br /&gt;
 &lt;strong&gt; 第二章&lt;/strong&gt; :  &lt;code&gt;string1 = (return)string2&lt;/code&gt;  若存在 &lt;code&gt;string1&lt;/code&gt; ，則輸出 &lt;code&gt;string2&lt;/code&gt;&lt;/p&gt;
