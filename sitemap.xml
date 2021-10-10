@@ -394,14 +394,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/cpp-tutorial/C-data-type-and-basic-operators/</loc>
+    <loc>https://www.pinghenotes.com/cpp-tutorial/C-input-and-output/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/cpp-tutorial/C-input-and-output/</loc>
+    <loc>https://www.pinghenotes.com/cpp-tutorial/C-data-type-and-basic-operators/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -562,14 +562,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11838-Come-and-Go/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11906-Knight-in-a-War-Grid/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11906-Knight-in-a-War-Grid/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11838-Come-and-Go/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -597,14 +597,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11633-Food-portion-sizes/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/UVa-11689-Soda-Surpler/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11572-Unique-Snowflakes/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -618,7 +611,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11572-Unique-Snowflakes/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11689-Soda-Surpler/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-11633-Food-portion-sizes/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -744,14 +744,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10267-Graphical-Editor/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10282-Babelfish/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10282-Babelfish/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10267-Graphical-Editor/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -858,13 +858,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/map/</loc>
-    <lastmod>2021-10-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/tags/Closest-Pair/</loc>
     <lastmod>2021-10-10</lastmod>
     <changefreq>daily</changefreq>
@@ -873,6 +866,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/DNC/</loc>
+    <lastmod>2021-10-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/map/</loc>
     <lastmod>2021-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -956,14 +956,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/knapsack/</loc>
+    <loc>https://www.pinghenotes.com/tags/Minimum-cost/</loc>
     <lastmod>2021-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/Minimum-cost/</loc>
+    <loc>https://www.pinghenotes.com/tags/knapsack/</loc>
     <lastmod>2021-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
