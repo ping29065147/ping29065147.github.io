@@ -11,7 +11,7 @@
     <updated>2021-10-10T12:13:24.000Z</updated>
     <entry>
         <id>https://www.pinghenotes.com/a-equals-b/</id>
-        <title>&lt;a=b&gt; Steam 指令編寫遊戲 攻略</title>
+        <title>a=b Steam 指令編寫遊戲 攻略</title>
         <link rel="alternate" href="https://www.pinghenotes.com/a-equals-b/"/>
         <content type="html">&lt;h2 id=&#34;ab-steam-網頁連結&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ab-steam-網頁連結&#34;&gt;#&lt;/a&gt; &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL2FwcC8xNzIwODUwL0FCLz8=&#34;&gt;&amp;lt;a=b&amp;gt; Steam 網頁連結&lt;/span&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;&amp;lt;a=b&amp;gt;&lt;/strong&gt; 是一款只有一條指令的編碼遊戲&lt;/p&gt;
@@ -27,6 +27,9 @@
 b = B
 c = C
 &lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;1-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-3&#34;&gt;#&lt;/a&gt; 1-3&lt;/h3&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，將所有連續字母改成單個字母&lt;br /&gt;
+ ``&lt;/p&gt;
 &lt;h1 id=&#34;第二章攻略&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二章攻略&#34;&gt;#&lt;/a&gt; 第二章攻略&lt;/h1&gt;
 </content>
         <category term="a=b" scheme="https://www.pinghenotes.com/tags/a-b/" />
