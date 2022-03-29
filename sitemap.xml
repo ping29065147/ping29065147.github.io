@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-13171-Pixel-Art/</loc>
+    
+    <lastmod>2022-03-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-10642-Can-You-Solve-It/</loc>
+    
+    <lastmod>2022-03-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-12908-The-book-thief/</loc>
     
     <lastmod>2022-03-29</lastmod>
@@ -387,14 +401,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/friends/index.html</loc>
+    <loc>https://www.pinghenotes.com/about/index.html</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/about/index.html</loc>
+    <loc>https://www.pinghenotes.com/friends/index.html</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -443,13 +457,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-673-Parentheses-Balance/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/UVa-558-Wormholes/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -457,7 +464,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-796-Critical-Links/</loc>
+    <loc>https://www.pinghenotes.com/UVa-673-Parentheses-Balance/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -471,6 +478,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-796-Critical-Links/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-872-Ordering/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -478,14 +492,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-458-The-Decoder/</loc>
+    <loc>https://www.pinghenotes.com/UVa-429-Word-Transformation/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-429-Word-Transformation/</loc>
+    <loc>https://www.pinghenotes.com/UVa-458-The-Decoder/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -632,14 +646,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11286-Conformity/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11228-Transportation-System/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11228-Transportation-System/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11286-Conformity/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -823,14 +837,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/vector/</loc>
+    <loc>https://www.pinghenotes.com/tags/DP/</loc>
     <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/DP/</loc>
+    <loc>https://www.pinghenotes.com/tags/vector/</loc>
     <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -928,20 +942,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/unordered-set/</loc>
-    <lastmod>2022-03-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/bellman/</loc>
-    <lastmod>2022-03-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/tags/LIS/</loc>
     <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
@@ -957,6 +957,20 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/greedy/</loc>
+    <lastmod>2022-03-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/unordered-set/</loc>
+    <lastmod>2022-03-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/bellman/</loc>
     <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
