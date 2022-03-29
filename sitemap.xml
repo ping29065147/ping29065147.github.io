@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-11360-Have-Fun-with-Matrices/</loc>
+    
+    <lastmod>2022-03-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-10326-The-Polynomial-Equation/</loc>
+    
+    <lastmod>2022-03-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-13171-Pixel-Art/</loc>
     
     <lastmod>2022-03-29</lastmod>
@@ -800,14 +814,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10188-Automated-Judge-Script/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10172-The-Lonesome-Cargo-Distributor/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10172-The-Lonesome-Cargo-Distributor/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10188-Automated-Judge-Script/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -858,13 +872,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/string/</loc>
-    <lastmod>2022-03-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/tags/stack/</loc>
     <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
@@ -879,14 +886,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/map/</loc>
+    <loc>https://www.pinghenotes.com/tags/string/</loc>
     <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/dfs/</loc>
+    <loc>https://www.pinghenotes.com/tags/map/</loc>
     <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -901,6 +908,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/DNC/</loc>
+    <lastmod>2022-03-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/dfs/</loc>
     <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1026,14 +1040,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/dijkstra/</loc>
+    <loc>https://www.pinghenotes.com/tags/bcc/</loc>
     <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/bcc/</loc>
+    <loc>https://www.pinghenotes.com/tags/dijkstra/</loc>
     <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
