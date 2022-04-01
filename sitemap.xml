@@ -464,13 +464,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-924-Spreading-the-News/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/UVa-929-Number-Maze/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -479,6 +472,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-978-Lemmings-Battle/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-924-Spreading-the-News/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -597,14 +597,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-12442-Forwarding-Emails/</loc>
+    <loc>https://www.pinghenotes.com/UVa-12319-Edgetown-s-Traffic-Jams/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-12319-Edgetown-s-Traffic-Jams/</loc>
+    <loc>https://www.pinghenotes.com/UVa-12442-Forwarding-Emails/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -653,13 +653,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11633-Food-portion-sizes/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/UVa-11747-Heavy-Cycle-Edges/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -674,7 +667,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11228-Transportation-System/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11633-Food-portion-sizes/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -688,6 +681,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-11228-Transportation-System/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-11536-Smallest-Sub-Array/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -695,14 +695,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10986-Sending-email/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11034-Ferry-Loading-IV/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11034-Ferry-Loading-IV/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10986-Sending-email/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -865,14 +865,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/DP/</loc>
+    <loc>https://www.pinghenotes.com/tags/vector/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/vector/</loc>
+    <loc>https://www.pinghenotes.com/tags/DP/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
