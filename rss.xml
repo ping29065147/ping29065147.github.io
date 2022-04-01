@@ -291,9 +291,7 @@
 &lt;h1 id=&#34;第一章攻略&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章攻略&#34;&gt;#&lt;/a&gt; 第一章攻略&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;1-1 A to B&lt;/strong&gt;&lt;br /&gt;
  給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，將字串中的 &lt;code&gt;a&lt;/code&gt;  改成 &lt;code&gt;b&lt;/code&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;a = b
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr /&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;a &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; b&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;1-2 Uppercase&lt;/strong&gt;&lt;br /&gt;
  給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，將字串中的字母改成大寫&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;a = A
