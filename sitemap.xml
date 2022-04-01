@@ -429,14 +429,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/about/index.html</loc>
+    <loc>https://www.pinghenotes.com/friends/index.html</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/friends/index.html</loc>
+    <loc>https://www.pinghenotes.com/about/index.html</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -464,6 +464,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-924-Spreading-the-News/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-929-Number-Maze/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -472,13 +479,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-978-Lemmings-Battle/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/UVa-924-Spreading-the-News/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -541,14 +541,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-168-Theseus-and-the-Minotaur/</loc>
+    <loc>https://www.pinghenotes.com/UVa-200-Rare-Order/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-200-Rare-Order/</loc>
+    <loc>https://www.pinghenotes.com/UVa-168-Theseus-and-the-Minotaur/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -653,7 +653,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11747-Heavy-Cycle-Edges/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11633-Food-portion-sizes/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -667,14 +667,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11633-Food-portion-sizes/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/UVa-11286-Conformity/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11747-Heavy-Cycle-Edges/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -688,6 +681,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-11286-Conformity/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-11536-Smallest-Sub-Array/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -695,14 +695,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11034-Ferry-Loading-IV/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10986-Sending-email/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10986-Sending-email/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11034-Ferry-Loading-IV/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -793,14 +793,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10267-Graphical-Editor/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10282-Babelfish/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10282-Babelfish/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10267-Graphical-Editor/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -872,14 +872,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/DP/</loc>
+    <loc>https://www.pinghenotes.com/tags/Floyd-Warshall/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/Floyd-Warshall/</loc>
+    <loc>https://www.pinghenotes.com/tags/DP/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -935,14 +935,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/Coin-Change/</loc>
+    <loc>https://www.pinghenotes.com/tags/topological-sort/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/topological-sort/</loc>
+    <loc>https://www.pinghenotes.com/tags/Coin-Change/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1005,14 +1005,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/Minimum-cost/</loc>
+    <loc>https://www.pinghenotes.com/tags/knapsack/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/knapsack/</loc>
+    <loc>https://www.pinghenotes.com/tags/Minimum-cost/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

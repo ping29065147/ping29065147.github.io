@@ -334,7 +334,7 @@ bb = b
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
 &lt;h1 id=&#34;第二章-chapter-2-keyword&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二章-chapter-2-keyword&#34;&gt;#&lt;/a&gt; 第二章 Chapter 2 Keyword&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;指令說明 instruction explanation&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;指令說明-instruction-explanation&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指令說明-instruction-explanation&#34;&gt;#&lt;/a&gt; &lt;strong&gt;指令說明 instruction explanation&lt;/strong&gt;&lt;/h2&gt;
 &lt;h2 id=&#34;string1-returnstring2-若存在string1則輸出string2if-string1-exist-output-string2hi&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#string1-returnstring2-若存在string1則輸出string2if-string1-exist-output-string2hi&#34;&gt;#&lt;/a&gt;  &lt;code&gt;string1 = (return)string2&lt;/code&gt;  若存在 &lt;code&gt;string1&lt;/code&gt; ，則輸出 &lt;code&gt;string2&lt;/code&gt; &lt;br /&gt;
 if  &lt;code&gt;string1&lt;/code&gt;  exist, output  &lt;code&gt;string2&lt;/code&gt; &lt;br /&gt;
 hi&lt;/h2&gt;
