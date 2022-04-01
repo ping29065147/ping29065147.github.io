@@ -280,10 +280,11 @@
             <guid isPermalink="true">https://www.pinghenotes.com/a-equals-b/</guid>
             <title>a=b Steam 指令編寫遊戲 攻略 One-Instruction Esolang Strategy</title>
             <link>https://www.pinghenotes.com/a-equals-b/</link>
+            <category term="game" scheme="https://www.pinghenotes.com/categories/game/" />
             <category term="a=b" scheme="https://www.pinghenotes.com/tags/a-b/" />
             <category term="steam" scheme="https://www.pinghenotes.com/tags/steam/" />
             <pubDate>Sun, 10 Oct 2021 20:13:24 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;ab-是一款只有一條指令的編碼遊戲-is-a-coding-game-that-has-only-one-command&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ab-是一款只有一條指令的編碼遊戲-is-a-coding-game-that-has-only-one-command&#34;&gt;#&lt;/a&gt; &lt;strong&gt;&amp;lt;a=b&amp;gt;&lt;/strong&gt; 是一款只有一條指令的編碼遊戲 is a coding game that has only one command&lt;/h1&gt;
+            <description><![CDATA[ &lt;h1 id=&#34;ab-是一款只有一條指令的編碼遊戲-ab-is-a-coding-game-that-has-only-one-command&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ab-是一款只有一條指令的編碼遊戲-ab-is-a-coding-game-that-has-only-one-command&#34;&gt;#&lt;/a&gt; &lt;strong&gt;&amp;lt;a=b&amp;gt;&lt;/strong&gt; 是一款只有一條指令的編碼遊戲 &lt;strong&gt;&amp;lt;a=b&amp;gt;&lt;/strong&gt; is a coding game that has only one command&lt;/h1&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL2FwcC8xNzIwODUwL0FCLz8=&#34;&gt;&amp;lt;a=b&amp;gt; Steam 遊戲連結 game link&lt;/span&gt;&lt;/p&gt;
 &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;更新於 2022.4.1&lt;br /&gt;
@@ -355,8 +356,19 @@ aaa = (return)true
 = (return)false
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;2-3 Remainder&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，輸出字串長度除以 3 的餘數&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2-3 Exactly Three&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，如果字串長度為 3 輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt; &lt;br /&gt;
+given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output  &lt;code&gt;true&lt;/code&gt;  if there exist exactly three letters, otherwise output  &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;b = a
+c = a
+aaaa = (return)false
+aaa = (return)true
+= (return)false
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;2-4 Remainder&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，輸出字串長度除以 3 的餘數&lt;br /&gt;
+ given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output the remainder of the string length divided by 3&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;b = a
 c = a
 aaaa = a
@@ -365,8 +377,9 @@ aa = 2
 a = 1
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;2-4 Odd&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，如果每個字母的數量為 0 或奇數輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2-5 Odd&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，如果每個字母的數量為 0 或奇數輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt; &lt;br /&gt;
+given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output  &lt;code&gt;true&lt;/code&gt;  if all the amounts of the letters are 0 or odd, otherwise output  &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;ba = ab
 cb = bc
 ca = ac
@@ -379,8 +392,9 @@ cc = (return)false
  = (return)true
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;2-5 The Only&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，如果只有一個字母單獨存在輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2-6 The Only&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，如果只有一個字母是單獨存在的輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt; &lt;br /&gt;
+given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output  &lt;code&gt;true&lt;/code&gt;  if only 1 letter is not consecutive, otherwise output  &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;aaa = aa
 bbb = bb
 ccc = cc
@@ -396,8 +410,8 @@ c = 0
 = (return)false
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;2-6 Ascend&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，如果 &lt;code&gt;c &amp;gt; b &amp;gt; a&lt;/code&gt;  輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2-7 Ascend&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，如果數量 &lt;code&gt;c &amp;gt; b &amp;gt; a&lt;/code&gt;  輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;ca = ac
 ba = ab
 cb = bc
@@ -411,8 +425,9 @@ bcc = (return)true
 &lt;p&gt;此答案不是最佳解，多數情況會 fail&lt;/p&gt;
 &lt;/div&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;2-7 Most&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，輸出最多的字母&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2-8 Most&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，輸出最多的字母&lt;br /&gt;
+ given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output the most common letter&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;cb = bc
 ca = ac
 ba = ab
@@ -424,6 +439,20 @@ ac =
 a = (return)a
 b = (return)b
 c = (return)c
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;2-9 Least&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，輸出最少的字母&lt;br /&gt;
+ given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output the least common letter&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cb = bc
+ca = ac
+ba = ab
+ab = -
+-b = b-
+-c =
+- = (return)c
+ac = (return)b
+bc = (return)a
 &lt;/code&gt;&lt;/pre&gt;
  ]]></description>
         </item>
