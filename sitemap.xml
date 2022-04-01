@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-12627-Erratic-Expansion/</loc>
+    <loc>https://www.pinghenotes.com/CPE-Collections/</loc>
     
     <lastmod>2022-04-01</lastmod>
     
@@ -10,6 +10,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-11659-Informants/</loc>
+    
+    <lastmod>2022-04-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-12627-Erratic-Expansion/</loc>
     
     <lastmod>2022-04-01</lastmod>
     
@@ -45,13 +52,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-12908-The-book-thief/</loc>
-    
-    <lastmod>2022-03-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/CPE-Collections/</loc>
     
     <lastmod>2022-03-29</lastmod>
     
@@ -520,14 +520,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-458-The-Decoder/</loc>
+    <loc>https://www.pinghenotes.com/UVa-429-Word-Transformation/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-429-Word-Transformation/</loc>
+    <loc>https://www.pinghenotes.com/UVa-458-The-Decoder/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -597,14 +597,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-12319-Edgetown-s-Traffic-Jams/</loc>
+    <loc>https://www.pinghenotes.com/UVa-12442-Forwarding-Emails/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-12442-Forwarding-Emails/</loc>
+    <loc>https://www.pinghenotes.com/UVa-12319-Edgetown-s-Traffic-Jams/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -879,13 +879,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/Floyd-Warshall/</loc>
-    <lastmod>2022-04-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/tags/stack/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>daily</changefreq>
@@ -894,6 +887,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/queue/</loc>
+    <lastmod>2022-04-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/Floyd-Warshall/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1026,6 +1026,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/tags/Kadane-s-Algorithm/</loc>
+    <lastmod>2022-04-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/tags/articulation-point/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>daily</changefreq>
@@ -1034,13 +1041,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/bridge/</loc>
-    <lastmod>2022-04-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/Kadane-s-Algorithm/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
