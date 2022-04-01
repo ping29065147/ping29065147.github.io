@@ -283,51 +283,55 @@
             <category term="a=b" scheme="https://www.pinghenotes.com/tags/a-b/" />
             <category term="steam" scheme="https://www.pinghenotes.com/tags/steam/" />
             <pubDate>Sun, 10 Oct 2021 20:13:24 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;ab-是一款只有一條指令的編碼遊戲-is-a-gmae-that-has-only-one-command&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ab-是一款只有一條指令的編碼遊戲-is-a-gmae-that-has-only-one-command&#34;&gt;#&lt;/a&gt; &lt;strong&gt;&amp;lt;a=b&amp;gt;&lt;/strong&gt; 是一款只有一條指令的編碼遊戲 is a gmae that has only one command&lt;/h1&gt;
+            <description><![CDATA[ &lt;h1 id=&#34;ab-是一款只有一條指令的編碼遊戲-is-a-coding-game-that-has-only-one-command&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ab-是一款只有一條指令的編碼遊戲-is-a-coding-game-that-has-only-one-command&#34;&gt;#&lt;/a&gt; &lt;strong&gt;&amp;lt;a=b&amp;gt;&lt;/strong&gt; 是一款只有一條指令的編碼遊戲 is a coding game that has only one command&lt;/h1&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL2FwcC8xNzIwODUwL0FCLz8=&#34;&gt;&amp;lt;a=b&amp;gt; Steam 遊戲連結 game link&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;更新於 2022.4.1&lt;br /&gt;
+update in 2022.4.1&lt;/p&gt;
+&lt;/div&gt;
 &lt;h1 id=&#34;指令說明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指令說明&#34;&gt;#&lt;/a&gt; 指令說明&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;第一章 Chapter 1 A=B&lt;/strong&gt; :  &lt;code&gt;string1 = string2&lt;/code&gt;  將 &lt;code&gt;string1&lt;/code&gt;  替換成 &lt;code&gt;string2&lt;/code&gt; ，replace string2 with string1&lt;br /&gt;
-&lt;strong&gt; 第二章 Chapter 2 Keyword&lt;/strong&gt; :  &lt;code&gt;string1 = (return)string2&lt;/code&gt;  若存在 &lt;code&gt;string1&lt;/code&gt; ，則輸出 &lt;code&gt;string2&lt;/code&gt; ，if string1 exist, output string2&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一章 Chapter 1 A=B&lt;/strong&gt; :  &lt;code&gt;string1 = string2&lt;/code&gt;  將 &lt;code&gt;string1&lt;/code&gt;  替換成 &lt;code&gt;string2&lt;/code&gt; ，replace  &lt;code&gt;string2&lt;/code&gt;  with  &lt;code&gt;string1&lt;/code&gt; &lt;br /&gt;
+&lt;strong&gt; 第二章 Chapter 2 Keyword&lt;/strong&gt; :  &lt;code&gt;string1 = (return)string2&lt;/code&gt;  若存在 &lt;code&gt;string1&lt;/code&gt; ，則輸出 &lt;code&gt;string2&lt;/code&gt; ，if  &lt;code&gt;string1&lt;/code&gt;  exist, output  &lt;code&gt;string2&lt;/code&gt;&lt;/p&gt;
 &lt;h1 id=&#34;第一章-chapter-1-ab&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章-chapter-1-ab&#34;&gt;#&lt;/a&gt; 第一章 Chapter 1 A=B&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;1-1 A to B&lt;/strong&gt;&lt;br /&gt;
- 給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，將字串中的 &lt;code&gt;a&lt;/code&gt;  改成 &lt;code&gt;b&lt;/code&gt; &lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;1-1 A to B&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，將字串中的 &lt;code&gt;a&lt;/code&gt;  改成 &lt;code&gt;b&lt;/code&gt; &lt;br /&gt;
 given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , replace all  &lt;code&gt;b&lt;/code&gt;  with  &lt;code&gt;a&lt;/code&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;a = b
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;1-2 Uppercase&lt;/strong&gt;&lt;br /&gt;
- 給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，將字串中的字母改成大寫&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;1-2 Uppercase&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，將字串中的字母改成大寫&lt;br /&gt;
  given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , replace them with uppercase&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;a = A
 b = B
 c = C
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;1-3 SingLeton&lt;/strong&gt;&lt;br /&gt;
- 給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，將所有連續字母改成單個字母&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;1-3 SingLeton&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，將所有連續字母改成單個字母&lt;br /&gt;
  given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , replace all consecutive letters with single letter&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;aa = a
 bb = b
 cc = c
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;1-4 SingLeton 2&lt;/strong&gt;&lt;br /&gt;
- 給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，將所有連續的 &lt;code&gt;a&lt;/code&gt;  刪除&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;1-4 SingLeton 2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，將所有連續的 &lt;code&gt;a&lt;/code&gt;  刪除&lt;br /&gt;
  given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , delete all consecutive  &lt;code&gt;a&lt;/code&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;aaa = aa
 aa = 
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;1-5 Sort&lt;/strong&gt;&lt;br /&gt;
- 給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，以字母表順序進行排序&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;1-5 Sort&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，以字母表順序進行排序&lt;br /&gt;
  given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , sort them in alphabetical order&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;ba = ab
 ca = ac
 cb = bc
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;1-6 Compare&lt;/strong&gt;&lt;br /&gt;
- 給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt;  的字串，輸出最多的字母&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;1-6 Compare&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt;  的字串，輸出最多的字母&lt;br /&gt;
  given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt; , output the most letter&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;ab = 
 ba = 
@@ -336,21 +340,23 @@ bb = b
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
 &lt;h1 id=&#34;第二章-chapter-2-keyword&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二章-chapter-2-keyword&#34;&gt;#&lt;/a&gt; 第二章 Chapter 2 Keyword&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;2-1 Hello&lt;/strong&gt;&lt;br /&gt;
- 給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，輸出 &lt;code&gt;helloworld&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2-1 Hello World&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，輸出 &lt;code&gt;helloworld&lt;/code&gt; &lt;br /&gt;
+given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output  &lt;code&gt;helloworld&lt;/code&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;= (return)helloworld
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;2-2 Triple A&lt;/strong&gt;&lt;br /&gt;
- 給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，如果包含至少 3 個 &lt;code&gt;a&lt;/code&gt;  輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2-2 AAA&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，如果包含至少 3 個 &lt;code&gt;a&lt;/code&gt;  輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt; &lt;br /&gt;
+given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output  &lt;code&gt;true&lt;/code&gt;  if there exist at least 3  &lt;code&gt;a&lt;/code&gt; , otherwise output  &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;b = 
 c = 
 aaa = (return)true
 = (return)false
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;2-3 Remainder&lt;/strong&gt;&lt;br /&gt;
- 給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，輸出字串長度除以 3 的餘數&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2-3 Remainder&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，輸出字串長度除以 3 的餘數&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;b = a
 c = a
 aaaa = a
@@ -359,8 +365,8 @@ aa = 2
 a = 1
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;2-4 Odd&lt;/strong&gt;&lt;br /&gt;
- 給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，如果每個字母的數量為 0 或奇數輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2-4 Odd&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，如果每個字母的數量為 0 或奇數輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;ba = ab
 cb = bc
 ca = ac
@@ -373,8 +379,8 @@ cc = (return)false
  = (return)true
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;2-5 The Only&lt;/strong&gt;&lt;br /&gt;
- 給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，如果只有一個字母單獨存在輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2-5 The Only&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，如果只有一個字母單獨存在輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;aaa = aa
 bbb = bb
 ccc = cc
@@ -390,8 +396,8 @@ c = 0
 = (return)false
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;2-6 Ascend&lt;/strong&gt;&lt;br /&gt;
- 給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，如果 &lt;code&gt;c &amp;gt; b &amp;gt; a&lt;/code&gt;  輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2-6 Ascend&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，如果 &lt;code&gt;c &amp;gt; b &amp;gt; a&lt;/code&gt;  輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;ca = ac
 ba = ab
 cb = bc
@@ -405,8 +411,8 @@ bcc = (return)true
 &lt;p&gt;此答案不是最佳解，多數情況會 fail&lt;/p&gt;
 &lt;/div&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;2-7 Most&lt;/strong&gt;&lt;br /&gt;
- 給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，輸出最多的字母&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2-7 Most&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，輸出最多的字母&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;cb = bc
 ca = ac
 ba = ab
