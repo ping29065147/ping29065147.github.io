@@ -443,14 +443,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/cpp-tutorial/C-input-and-output/</loc>
+    <loc>https://www.pinghenotes.com/cpp-tutorial/C-data-type-and-basic-operators/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/cpp-tutorial/C-data-type-and-basic-operators/</loc>
+    <loc>https://www.pinghenotes.com/cpp-tutorial/C-input-and-output/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -576,14 +576,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11995-I-Can-Guess-the-Data-Structure/</loc>
+    <loc>https://www.pinghenotes.com/UVa-1203-Argus/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-1203-Argus/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11995-I-Can-Guess-the-Data-Structure/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -660,13 +660,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11689-Soda-Surpler/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/UVa-11747-Heavy-Cycle-Edges/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -674,7 +667,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11228-Transportation-System/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11689-Soda-Surpler/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -682,6 +675,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-11286-Conformity/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-11228-Transportation-System/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -716,14 +716,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-1112-Mice-and-Maze/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11136-Hoax-or-what/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11136-Hoax-or-what/</loc>
+    <loc>https://www.pinghenotes.com/UVa-1112-Mice-and-Maze/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -793,14 +793,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10282-Babelfish/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10267-Graphical-Editor/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10267-Graphical-Editor/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10282-Babelfish/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -865,14 +865,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/DP/</loc>
+    <loc>https://www.pinghenotes.com/tags/vector/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/vector/</loc>
+    <loc>https://www.pinghenotes.com/tags/DP/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -935,14 +935,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/topological-sort/</loc>
+    <loc>https://www.pinghenotes.com/tags/Coin-Change/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/Coin-Change/</loc>
+    <loc>https://www.pinghenotes.com/tags/topological-sort/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1005,14 +1005,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/knapsack/</loc>
+    <loc>https://www.pinghenotes.com/tags/Minimum-cost/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/Minimum-cost/</loc>
+    <loc>https://www.pinghenotes.com/tags/knapsack/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
