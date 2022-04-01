@@ -278,22 +278,22 @@
         </item>
         <item>
             <guid isPermalink="true">https://www.pinghenotes.com/a-equals-b/</guid>
-            <title>a=b Steam 指令編寫遊戲 攻略 One-Instruction Esolang Strategy</title>
+            <title>A=B Steam 指令編寫遊戲 攻略 One-Instruction Esolang Strategy</title>
             <link>https://www.pinghenotes.com/a-equals-b/</link>
             <category term="game" scheme="https://www.pinghenotes.com/categories/game/" />
-            <category term="a=b" scheme="https://www.pinghenotes.com/tags/a-b/" />
+            <category term="A=B" scheme="https://www.pinghenotes.com/tags/A-B/" />
             <category term="steam" scheme="https://www.pinghenotes.com/tags/steam/" />
             <pubDate>Sun, 10 Oct 2021 20:13:24 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;ab-是一款只有一條指令的編碼遊戲-ab-is-a-coding-game-that-has-only-one-command&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ab-是一款只有一條指令的編碼遊戲-ab-is-a-coding-game-that-has-only-one-command&#34;&gt;#&lt;/a&gt; &lt;strong&gt;&amp;lt;a=b&amp;gt;&lt;/strong&gt; 是一款只有一條指令的編碼遊戲 &lt;strong&gt;&amp;lt;a=b&amp;gt;&lt;/strong&gt; is a coding game that has only one command&lt;/h1&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL2FwcC8xNzIwODUwL0FCLz8=&#34;&gt;&amp;lt;a=b&amp;gt; Steam 遊戲連結 game link&lt;/span&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;h1 id=&#34;ab-是一款只有一條指令的編碼遊戲&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ab-是一款只有一條指令的編碼遊戲&#34;&gt;#&lt;/a&gt; A=B 是一款只有一條指令的編碼遊戲&lt;/h1&gt;
+&lt;p&gt;A=B is a coding game that has only one command&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL2FwcC8xNzIwODUwL0FCLz8=&#34;&gt;A=B Steam&lt;/span&gt;&lt;/p&gt;
 &lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;更新於 2022.4.1&lt;br /&gt;
-update in 2022.4.1&lt;/p&gt;
+&lt;p&gt;update in 2022.4.1&lt;/p&gt;
 &lt;/div&gt;
-&lt;h1 id=&#34;指令說明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指令說明&#34;&gt;#&lt;/a&gt; 指令說明&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;第一章 Chapter 1 A=B&lt;/strong&gt; :  &lt;code&gt;string1 = string2&lt;/code&gt;  將 &lt;code&gt;string1&lt;/code&gt;  替換成 &lt;code&gt;string2&lt;/code&gt; ，replace  &lt;code&gt;string2&lt;/code&gt;  with  &lt;code&gt;string1&lt;/code&gt; &lt;br /&gt;
-&lt;strong&gt; 第二章 Chapter 2 Keyword&lt;/strong&gt; :  &lt;code&gt;string1 = (return)string2&lt;/code&gt;  若存在 &lt;code&gt;string1&lt;/code&gt; ，則輸出 &lt;code&gt;string2&lt;/code&gt; ，if  &lt;code&gt;string1&lt;/code&gt;  exist, output  &lt;code&gt;string2&lt;/code&gt;&lt;/p&gt;
 &lt;h1 id=&#34;第一章-chapter-1-ab&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章-chapter-1-ab&#34;&gt;#&lt;/a&gt; 第一章 Chapter 1 A=B&lt;/h1&gt;
+&lt;h2 id=&#34;指令說明-instruction-explanation&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指令說明-instruction-explanation&#34;&gt;#&lt;/a&gt; 指令說明 instruction explanation&lt;/h2&gt;
+&lt;h2 id=&#34;string1-string2-將string1替換成string2replace-string2-with-string1&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#string1-string2-將string1替換成string2replace-string2-with-string1&#34;&gt;#&lt;/a&gt;  &lt;code&gt;string1 = string2&lt;/code&gt;  將 &lt;code&gt;string1&lt;/code&gt;  替換成 &lt;code&gt;string2&lt;/code&gt; &lt;br /&gt;
+replace  &lt;code&gt;string2&lt;/code&gt;  with  &lt;code&gt;string1&lt;/code&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;1-1 A to B&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，將字串中的 &lt;code&gt;a&lt;/code&gt;  改成 &lt;code&gt;b&lt;/code&gt; &lt;br /&gt;
 given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , replace all  &lt;code&gt;b&lt;/code&gt;  with  &lt;code&gt;a&lt;/code&gt;&lt;/p&gt;
@@ -341,6 +341,9 @@ bb = b
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
 &lt;h1 id=&#34;第二章-chapter-2-keyword&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二章-chapter-2-keyword&#34;&gt;#&lt;/a&gt; 第二章 Chapter 2 Keyword&lt;/h1&gt;
+&lt;h2 id=&#34;指令說明-instruction-explanation-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指令說明-instruction-explanation-2&#34;&gt;#&lt;/a&gt; 指令說明 instruction explanation&lt;/h2&gt;
+&lt;h2 id=&#34;string1-returnstring2-若存在string1則輸出string2if-string1-exist-output-string2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#string1-returnstring2-若存在string1則輸出string2if-string1-exist-output-string2&#34;&gt;#&lt;/a&gt;  &lt;code&gt;string1 = (return)string2&lt;/code&gt;  若存在 &lt;code&gt;string1&lt;/code&gt; ，則輸出 &lt;code&gt;string2&lt;/code&gt; &lt;br /&gt;
+if  &lt;code&gt;string1&lt;/code&gt;  exist, output  &lt;code&gt;string2&lt;/code&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;2-1 Hello World&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，輸出 &lt;code&gt;helloworld&lt;/code&gt; &lt;br /&gt;
 given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output  &lt;code&gt;helloworld&lt;/code&gt;&lt;/p&gt;
@@ -411,19 +414,17 @@ c = 0
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;2-7 Ascend&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，如果數量 &lt;code&gt;c &amp;gt; b &amp;gt; a&lt;/code&gt;  輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，如果數量 &lt;code&gt;c &amp;gt; b &amp;gt; a&lt;/code&gt;  輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt; &lt;br /&gt;
+given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output  &lt;code&gt;true&lt;/code&gt;  if the amount of  &lt;code&gt;c &amp;gt; b &amp;gt; a&lt;/code&gt; , otherwise output  &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;ca = ac
 ba = ab
 cb = bc
-ab = -
--b = b- 
--c =
-bcc = (return)true
+bc = -
+b- = -b
+a- = 
+-c = (return)true
 = (return)false
 &lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;此答案不是最佳解，多數情況會 fail&lt;/p&gt;
-&lt;/div&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;2-8 Most&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，輸出最多的字母&lt;br /&gt;
