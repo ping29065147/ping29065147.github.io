@@ -365,8 +365,8 @@
 &lt;/div&gt;
 &lt;h1 id=&#34;第一章-chapter-1-ab&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章-chapter-1-ab&#34;&gt;#&lt;/a&gt; 第一章 Chapter 1 A=B&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;指令說明 instruction explanation&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;string1-string2-將string1替換成string2replace-string2-with-string1&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#string1-string2-將string1替換成string2replace-string2-with-string1&#34;&gt;#&lt;/a&gt;  &lt;code&gt;string1 = string2&lt;/code&gt;  將 &lt;code&gt;string1&lt;/code&gt;  替換成 &lt;code&gt;string2&lt;/code&gt; &lt;br /&gt;
-replace  &lt;code&gt;string2&lt;/code&gt;  with  &lt;code&gt;string1&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;string1 = string2&lt;/code&gt;  將 &lt;code&gt;string1&lt;/code&gt;  替換成 &lt;code&gt;string2&lt;/code&gt; &lt;br /&gt;
+replace  &lt;code&gt;string2&lt;/code&gt;  with  &lt;code&gt;string1&lt;/code&gt;&lt;/p&gt;
 &lt;h3 id=&#34;1-1-a-to-b&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-1-a-to-b&#34;&gt;#&lt;/a&gt; &lt;strong&gt;1-1 A to B&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，將字串中的 &lt;code&gt;a&lt;/code&gt;  改成 &lt;code&gt;b&lt;/code&gt; &lt;br /&gt;
 given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , replace all  &lt;code&gt;b&lt;/code&gt;  with  &lt;code&gt;a&lt;/code&gt;&lt;/p&gt;
@@ -417,13 +417,13 @@ bb = b
 &lt;p&gt;&lt;strong&gt;指令說明 instruction explanation&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;string1 = (return)string2&lt;/code&gt;  若存在 &lt;code&gt;string1&lt;/code&gt; ，則輸出 &lt;code&gt;string2&lt;/code&gt; &lt;br /&gt;
 if  &lt;code&gt;string1&lt;/code&gt;  exist, output  &lt;code&gt;string2&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2-1 Hello World&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2-1-hello-world&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-1-hello-world&#34;&gt;#&lt;/a&gt; &lt;strong&gt;2-1 Hello World&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，輸出 &lt;code&gt;helloworld&lt;/code&gt; &lt;br /&gt;
 given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output  &lt;code&gt;helloworld&lt;/code&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;= (return)helloworld
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;2-2 AAA&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2-2-aaa&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-2-aaa&#34;&gt;#&lt;/a&gt; &lt;strong&gt;2-2 AAA&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，如果包含至少 3 個 &lt;code&gt;a&lt;/code&gt;  輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt; &lt;br /&gt;
 given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output  &lt;code&gt;true&lt;/code&gt;  if there exist at least 3  &lt;code&gt;a&lt;/code&gt; , otherwise output  &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;b = 
@@ -432,7 +432,7 @@ aaa = (return)true
 = (return)false
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;2-3 Exactly Three&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2-3-exactly-three&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-3-exactly-three&#34;&gt;#&lt;/a&gt; &lt;strong&gt;2-3 Exactly Three&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，如果字串長度為 3 輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt; &lt;br /&gt;
 given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output  &lt;code&gt;true&lt;/code&gt;  if there exist exactly three letters, otherwise output  &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;b = a
@@ -442,7 +442,7 @@ aaa = (return)true
 = (return)false
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;2-4 Remainder&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2-4-remainder&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-4-remainder&#34;&gt;#&lt;/a&gt; &lt;strong&gt;2-4 Remainder&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，輸出字串長度除以 3 的餘數&lt;br /&gt;
  given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output the remainder of the string length divided by 3&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;b = a
@@ -453,7 +453,7 @@ aa = 2
 a = 1
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;2-5 Odd&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2-5-odd&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-5-odd&#34;&gt;#&lt;/a&gt; &lt;strong&gt;2-5 Odd&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，如果每個字母的數量為 0 或奇數輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt; &lt;br /&gt;
 given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output  &lt;code&gt;true&lt;/code&gt;  if all the amounts of the letters are 0 or odd, otherwise output  &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;ba = ab
@@ -468,7 +468,7 @@ cc = (return)false
  = (return)true
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;2-6 The Only&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2-6-the-only&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-6-the-only&#34;&gt;#&lt;/a&gt; &lt;strong&gt;2-6 The Only&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，如果只有一個字母是單獨存在的輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt; &lt;br /&gt;
 given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output  &lt;code&gt;true&lt;/code&gt;  if only 1 letter is not consecutive, otherwise output  &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;aaa = aa
@@ -486,7 +486,7 @@ c = 0
 = (return)false
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;2-7 Ascend&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2-7-ascend&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-7-ascend&#34;&gt;#&lt;/a&gt; &lt;strong&gt;2-7 Ascend&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，如果數量 &lt;code&gt;c &amp;gt; b &amp;gt; a&lt;/code&gt;  輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt; &lt;br /&gt;
 given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output  &lt;code&gt;true&lt;/code&gt;  if the amount of  &lt;code&gt;c &amp;gt; b &amp;gt; a&lt;/code&gt; , otherwise output  &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;ca = ac
@@ -499,7 +499,7 @@ a- =
 = (return)false
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;2-8 Most&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2-8-most&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-8-most&#34;&gt;#&lt;/a&gt; &lt;strong&gt;2-8 Most&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，輸出最多的字母&lt;br /&gt;
  given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output the most common letter&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;cb = bc
@@ -515,7 +515,7 @@ b = (return)b
 c = (return)c
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;2-9 Least&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2-9-least&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-9-least&#34;&gt;#&lt;/a&gt; &lt;strong&gt;2-9 Least&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，輸出最少的字母&lt;br /&gt;
  given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output the least common letter&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;cb = bc
@@ -531,25 +531,27 @@ bc = (return)a
 &lt;hr /&gt;
 &lt;h1 id=&#34;第三章-chapter-3-start-and-end&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三章-chapter-3-start-and-end&#34;&gt;#&lt;/a&gt; 第三章 Chapter 3 Start and End&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;指令說明 instruction explanation&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;(start)string1 = string2&lt;/code&gt; 、 &lt;code&gt;(end)string1 = string2&lt;/code&gt;  若 &lt;code&gt;string1&lt;/code&gt;  在字串的開頭、結尾，將 &lt;code&gt;string1&lt;/code&gt;  替換成 &lt;code&gt;string2&lt;/code&gt; &lt;br /&gt;
-if  &lt;code&gt;string1&lt;/code&gt;  is at the start / end of string, replace  &lt;code&gt;string1&lt;/code&gt;  with  &lt;code&gt;string2&lt;/code&gt; &lt;br /&gt;
- &lt;code&gt;string1 = (start)string2&lt;/code&gt; 、 &lt;code&gt;string1 = (end)string2&lt;/code&gt;  找到最左方的 &lt;code&gt;string1&lt;/code&gt; ，將之刪除，並在字串的開頭、結尾加入 &lt;code&gt;string2&lt;/code&gt; &lt;br /&gt;
-find the left most  &lt;code&gt;string1&lt;/code&gt; , delete it, and add  &lt;code&gt;string2&lt;/code&gt;  at the start / end of string&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3-1 Remove&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;(start)string1 = string2&lt;/code&gt; 、 &lt;code&gt;(end)string1 = string2&lt;/code&gt;  若 &lt;code&gt;string1&lt;/code&gt;  在字串的開頭、結尾，將 &lt;code&gt;string1&lt;/code&gt;  替換成 &lt;code&gt;string2&lt;/code&gt; &lt;br /&gt;
+if  &lt;code&gt;string1&lt;/code&gt;  is at the start / end of string, replace  &lt;code&gt;string1&lt;/code&gt;  with  &lt;code&gt;string2&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;string1 = (start)string2&lt;/code&gt; 、 &lt;code&gt;string1 = (end)string2&lt;/code&gt;  找到最左方的 &lt;code&gt;string1&lt;/code&gt; ，將之刪除，並在字串的開頭、結尾加入 &lt;code&gt;string2&lt;/code&gt; &lt;br /&gt;
+find the left most  &lt;code&gt;string1&lt;/code&gt; , delete it, and add  &lt;code&gt;string2&lt;/code&gt;  at the start / end of string&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;3-1-remove&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-1-remove&#34;&gt;#&lt;/a&gt; &lt;strong&gt;3-1 Remove&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，將所有在字串開頭與結尾的 &lt;code&gt;a&lt;/code&gt;  刪除&lt;br /&gt;
  given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , remove all  &lt;code&gt;a&lt;/code&gt;  at the start and end of the string&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;(start)a=
 (end)a=
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;3-2 Spin&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;3-2-spin&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-2-spin&#34;&gt;#&lt;/a&gt; &lt;strong&gt;3-2 Spin&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，將所有在 &lt;code&gt;a&lt;/code&gt;  前方的字母移到字串最後&lt;br /&gt;
  given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , move every letters before  &lt;code&gt;a&lt;/code&gt;  to the end of the string&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;(start)b = (end)b
 (start)c = (end)c
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;3-3 A to B 2&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;3-3-a-to-b-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-3-a-to-b-2&#34;&gt;#&lt;/a&gt; &lt;strong&gt;3-3 A to B 2&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，將所有在開頭與結尾的 &lt;code&gt;a&lt;/code&gt;  替換成 &lt;code&gt;b&lt;/code&gt; &lt;br /&gt;
 given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , replace all  &lt;code&gt;a&lt;/code&gt;  with  &lt;code&gt;b&lt;/code&gt;  at the start and and of the string&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;(start)a = (end)-
@@ -557,6 +559,57 @@ given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt
 (end)a = (start)+
 + = (end)b
 &lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;3-4-swap&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-4-swap&#34;&gt;#&lt;/a&gt; &lt;strong&gt;3-4 Swap&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，將所有在開頭的 &lt;code&gt;a&lt;/code&gt;  與所有在結尾的 &lt;code&gt;b&lt;/code&gt;  交換&lt;br /&gt;
+ given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , swap all  &lt;code&gt;a&lt;/code&gt;  at the start and all  &lt;code&gt;b&lt;/code&gt;  at the end of the string&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;(start)a = +
++a = a+
+(end)b = (start)b
++ = (end)a
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;3-5-match&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-5-match&#34;&gt;#&lt;/a&gt; &lt;strong&gt;3-5 Match&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，若字串開頭與結尾相同輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt; &lt;br /&gt;
+given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output  &lt;code&gt;true&lt;/code&gt;  if the start and end of the string is the same letter&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;a+ = (return)true
+b- = (return)true
+c. = (return)true
+(start)a = (end)+
+(start)b = (end)-
+(start)c = (end).
+= (return)false
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;3-6-most-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-6-most-2&#34;&gt;#&lt;/a&gt; &lt;strong&gt;3-6 Most 2&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，保留並輸出最多的字母，刪除其餘字母&lt;br /&gt;
+ given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output the most common letter and delete the rest&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;ba = ab
+ca = ac
+cb = bc
+bc = (start)x
+xa = (start)y
+ac = (start)y
+ab = (start)y
+x = y
+yc = cc
+ya = aa
+yb = bb
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;3-7-palindrome&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-7-palindrome&#34;&gt;#&lt;/a&gt; &lt;strong&gt;3-7 Palindrome&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，若字串是回文輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt; &lt;br /&gt;
+given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output  &lt;code&gt;true&lt;/code&gt;  if the string is a palindrome, otherwise output  &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;a+A- = 
+b+B- = 
+c+C- =
+(start)a = (end)+A-
+(start)b = (end)+B-
+(start)c = (end)+C-
+-+ = (return)false
+= (return)true
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
  ]]></description>
         </item>
         <item>
