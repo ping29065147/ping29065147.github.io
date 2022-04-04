@@ -876,7 +876,7 @@ t = (end)+
 &lt;hr /&gt;
 &lt;h3 id=&#34;4-16-merge&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-16-merge&#34;&gt;#&lt;/a&gt; &lt;strong&gt;4-16 Merge&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;給兩個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt;  的字串 (以 &lt;code&gt;,&lt;/code&gt;  連接)，將兩字串合併&lt;br /&gt;
- given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , merge 2 strings&lt;/p&gt;
+ given 2 string contains  &lt;code&gt;a&lt;/code&gt;  and  &lt;code&gt;b&lt;/code&gt; , merge 2 strings&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;(once) = |
 |, = 
 - = (end)y

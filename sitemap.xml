@@ -534,14 +534,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-732-Anagrams-by-Stack/</loc>
+    <loc>https://www.pinghenotes.com/UVa-796-Critical-Links/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-796-Critical-Links/</loc>
+    <loc>https://www.pinghenotes.com/UVa-732-Anagrams-by-Stack/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -555,14 +555,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-429-Word-Transformation/</loc>
+    <loc>https://www.pinghenotes.com/UVa-458-The-Decoder/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-458-The-Decoder/</loc>
+    <loc>https://www.pinghenotes.com/UVa-429-Word-Transformation/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -674,14 +674,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11572-Unique-Snowflakes/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11631-Dark-Roads/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11631-Dark-Roads/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11572-Unique-Snowflakes/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -949,13 +949,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/dfs/</loc>
-    <lastmod>2022-04-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/tags/Closest-Pair/</loc>
     <lastmod>2022-04-04</lastmod>
     <changefreq>daily</changefreq>
@@ -970,7 +963,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/topological-sort/</loc>
+    <loc>https://www.pinghenotes.com/tags/dfs/</loc>
     <lastmod>2022-04-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -978,6 +971,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/Coin-Change/</loc>
+    <lastmod>2022-04-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/topological-sort/</loc>
     <lastmod>2022-04-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1005,6 +1005,20 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/tags/unordered-set/</loc>
+    <lastmod>2022-04-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/bellman/</loc>
+    <lastmod>2022-04-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/tags/LIS/</loc>
     <lastmod>2022-04-04</lastmod>
     <changefreq>daily</changefreq>
@@ -1020,20 +1034,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/greedy/</loc>
-    <lastmod>2022-04-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/unordered-set/</loc>
-    <lastmod>2022-04-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/bellman/</loc>
     <lastmod>2022-04-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1145,7 +1145,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/scc/</loc>
+    <loc>https://www.pinghenotes.com/tags/unordered-map/</loc>
     <lastmod>2022-04-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1159,7 +1159,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/unordered-map/</loc>
+    <loc>https://www.pinghenotes.com/tags/scc/</loc>
     <lastmod>2022-04-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
