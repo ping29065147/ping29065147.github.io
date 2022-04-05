@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.pinghenotes.com/a-equals-b-en/</loc>
+    <loc>https://www.pinghenotes.com/a-equals-b/</loc>
     
     <lastmod>2022-04-05</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/a-equals-b/</loc>
+    <loc>https://www.pinghenotes.com/a-equals-b-en/</loc>
     
     <lastmod>2022-04-05</lastmod>
     
@@ -478,14 +478,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/friends/index.html</loc>
+    <loc>https://www.pinghenotes.com/about/index.html</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/about/index.html</loc>
+    <loc>https://www.pinghenotes.com/friends/index.html</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -667,6 +667,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-11906-Knight-in-a-War-Grid/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-11960-Divisor-Game/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -675,13 +682,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-11988-Broken-Keyboard-a-k-a-Beiju-Text/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/UVa-11906-Knight-in-a-War-Grid/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -758,14 +758,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-1108-Mining-Your-Own-Business/</loc>
+    <loc>https://www.pinghenotes.com/UVa-1112-Mice-and-Maze/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-1112-Mice-and-Maze/</loc>
+    <loc>https://www.pinghenotes.com/UVa-1108-Mining-Your-Own-Business/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -786,13 +786,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10954-Add-All/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/UVa-10972-RevolC-FaeLoN/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -800,7 +793,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10449-Traffic/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10954-Add-All/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -835,6 +828,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-10449-Traffic/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-10226-Hardwood-Species/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -849,14 +849,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10282-Babelfish/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10305-Ordering-Tasks/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10305-Ordering-Tasks/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10282-Babelfish/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -877,14 +877,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10172-The-Lonesome-Cargo-Distributor/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10188-Automated-Judge-Script/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10188-Automated-Judge-Script/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10172-The-Lonesome-Cargo-Distributor/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -935,20 +935,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/stack/</loc>
-    <lastmod>2022-04-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/queue/</loc>
-    <lastmod>2022-04-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/tags/string/</loc>
     <lastmod>2022-04-05</lastmod>
     <changefreq>daily</changefreq>
@@ -971,6 +957,20 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/DNC/</loc>
+    <lastmod>2022-04-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/stack/</loc>
+    <lastmod>2022-04-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/queue/</loc>
     <lastmod>2022-04-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1019,20 +1019,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/unordered-set/</loc>
-    <lastmod>2022-04-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/bellman/</loc>
-    <lastmod>2022-04-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/tags/LIS/</loc>
     <lastmod>2022-04-05</lastmod>
     <changefreq>daily</changefreq>
@@ -1054,14 +1040,28 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/knapsack/</loc>
+    <loc>https://www.pinghenotes.com/tags/Minimum-cost/</loc>
     <lastmod>2022-04-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/Minimum-cost/</loc>
+    <loc>https://www.pinghenotes.com/tags/bellman/</loc>
+    <lastmod>2022-04-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/unordered-set/</loc>
+    <lastmod>2022-04-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/knapsack/</loc>
     <lastmod>2022-04-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1096,6 +1096,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/tags/bcc/</loc>
+    <lastmod>2022-04-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/tags/priority-queue/</loc>
     <lastmod>2022-04-05</lastmod>
     <changefreq>daily</changefreq>
@@ -1104,13 +1111,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/dijkstra/</loc>
-    <lastmod>2022-04-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/bcc/</loc>
     <lastmod>2022-04-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
