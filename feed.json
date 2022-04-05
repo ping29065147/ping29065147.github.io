@@ -227,8 +227,8 @@
                 "Maximum flow",
                 "Ford Fulkerson",
                 "Edmonds-Karp",
-                "Minimum cost",
                 "bellman",
+                "Minimum cost",
                 "bfs"
             ]
         },
@@ -245,8 +245,8 @@
                 "Maximum flow",
                 "Ford Fulkerson",
                 "Edmonds-Karp",
-                "Minimum cost",
-                "bellman"
+                "bellman",
+                "Minimum cost"
             ]
         },
         {
@@ -262,8 +262,8 @@
                 "Maximum flow",
                 "Ford Fulkerson",
                 "Edmonds-Karp",
-                "Minimum cost",
-                "bellman"
+                "bellman",
+                "Minimum cost"
             ]
         },
         {
