@@ -11,7 +11,7 @@
     <updated>2022-04-05T10:05:03.000Z</updated>
     <entry>
         <id>https://www.pinghenotes.com/a-equals-b-en/</id>
-        <title>A=B Steam One-Instruction Esolang Strategy</title>
+        <title>A=B Steam One-Instruction Esolang Walkthrough</title>
         <link rel="alternate" href="https://www.pinghenotes.com/a-equals-b-en/"/>
         <content type="html">&lt;h1 id=&#34;ab-is-a-coding-game-that-has-only-one-instruction&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ab-is-a-coding-game-that-has-only-one-instruction&#34;&gt;#&lt;/a&gt; A=B is a coding game that has only one instruction&lt;/h1&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL2FwcC8xNzIwODUwL0FCLz8=&#34;&gt;A=B on Steam&lt;/span&gt;&lt;/p&gt;
@@ -1482,11 +1482,11 @@ bx = (start)b
         <category term="Uva Problems" scheme="https://www.pinghenotes.com/categories/Uva-Problems/" />
         <category term="C++" scheme="https://www.pinghenotes.com/tags/C/" />
         <category term="UVa" scheme="https://www.pinghenotes.com/tags/UVa/" />
+        <category term="bellman" scheme="https://www.pinghenotes.com/tags/bellman/" />
+        <category term="Minimum cost" scheme="https://www.pinghenotes.com/tags/Minimum-cost/" />
         <category term="Maximum flow" scheme="https://www.pinghenotes.com/tags/Maximum-flow/" />
         <category term="Ford Fulkerson" scheme="https://www.pinghenotes.com/tags/Ford-Fulkerson/" />
         <category term="Edmonds-Karp" scheme="https://www.pinghenotes.com/tags/Edmonds-Karp/" />
-        <category term="bellman" scheme="https://www.pinghenotes.com/tags/bellman/" />
-        <category term="Minimum cost" scheme="https://www.pinghenotes.com/tags/Minimum-cost/" />
         <category term="bfs" scheme="https://www.pinghenotes.com/tags/bfs/" />
         <updated>2021-06-02T16:58:23.000Z</updated>
     </entry>
@@ -1519,11 +1519,11 @@ bx = (start)b
         <category term="Uva Problems" scheme="https://www.pinghenotes.com/categories/Uva-Problems/" />
         <category term="C++" scheme="https://www.pinghenotes.com/tags/C/" />
         <category term="UVa" scheme="https://www.pinghenotes.com/tags/UVa/" />
+        <category term="bellman" scheme="https://www.pinghenotes.com/tags/bellman/" />
+        <category term="Minimum cost" scheme="https://www.pinghenotes.com/tags/Minimum-cost/" />
         <category term="Maximum flow" scheme="https://www.pinghenotes.com/tags/Maximum-flow/" />
         <category term="Ford Fulkerson" scheme="https://www.pinghenotes.com/tags/Ford-Fulkerson/" />
         <category term="Edmonds-Karp" scheme="https://www.pinghenotes.com/tags/Edmonds-Karp/" />
-        <category term="bellman" scheme="https://www.pinghenotes.com/tags/bellman/" />
-        <category term="Minimum cost" scheme="https://www.pinghenotes.com/tags/Minimum-cost/" />
         <updated>2021-05-29T07:33:33.000Z</updated>
     </entry>
     <entry>
@@ -1558,11 +1558,11 @@ bx = (start)b
         <category term="Uva Problems" scheme="https://www.pinghenotes.com/categories/Uva-Problems/" />
         <category term="C++" scheme="https://www.pinghenotes.com/tags/C/" />
         <category term="UVa" scheme="https://www.pinghenotes.com/tags/UVa/" />
+        <category term="bellman" scheme="https://www.pinghenotes.com/tags/bellman/" />
+        <category term="Minimum cost" scheme="https://www.pinghenotes.com/tags/Minimum-cost/" />
         <category term="Maximum flow" scheme="https://www.pinghenotes.com/tags/Maximum-flow/" />
         <category term="Ford Fulkerson" scheme="https://www.pinghenotes.com/tags/Ford-Fulkerson/" />
         <category term="Edmonds-Karp" scheme="https://www.pinghenotes.com/tags/Edmonds-Karp/" />
-        <category term="bellman" scheme="https://www.pinghenotes.com/tags/bellman/" />
-        <category term="Minimum cost" scheme="https://www.pinghenotes.com/tags/Minimum-cost/" />
         <updated>2021-05-26T09:32:08.000Z</updated>
     </entry>
     <entry>
