@@ -26,7 +26,8 @@
 &lt;p&gt;&lt;a href=&#34;https://www.pinghenotes.com/a-equals-b/&#34;&gt;點此查看中文版本&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;2022.4.4 update chapter 4&lt;br /&gt;
+&lt;p&gt;2022.4.8 update chapter 5&lt;br /&gt;
+2022.4.4 update chapter 4&lt;br /&gt;
 2022.4.2 update chapter 3&lt;br /&gt;
 2022.4.1 update chapter 1, 2&lt;/p&gt;
 &lt;/div&gt;
@@ -141,10 +142,6 @@ c = 0
 &lt;hr /&gt;
 &lt;h3 id=&#34;2-7-ascend&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-7-ascend&#34;&gt;#&lt;/a&gt; &lt;strong&gt;2-7 Ascend&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output  &lt;code&gt;true&lt;/code&gt;  if the amount of  &lt;code&gt;c &amp;gt; b &amp;gt; a&lt;/code&gt; , otherwise output  &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
-&lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;&lt;strong&gt;Problem solving ideas&lt;/strong&gt;&lt;br /&gt;
-sort first&lt;/p&gt;
-&lt;/div&gt;
 &lt;pre&gt;&lt;code&gt;ca = ac
 ba = ab
 cb = bc
@@ -435,6 +432,100 @@ by = (start)b
 ax = (start)a
 bx = (start)b
 , = x,-
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;chapter-5-math&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#chapter-5-math&#34;&gt;#&lt;/a&gt; Chapter 5 Math&lt;/h1&gt;
+&lt;h3 id=&#34;5-1-count&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5-1-count&#34;&gt;#&lt;/a&gt; &lt;strong&gt;5-1 Count&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;given a binary number, output that many  &lt;code&gt;a&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;(once) = (end)+
+(start)0 = 
+(start)+ = 
+0- = -1
+1- = 0
++ = -+a
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;5-2-a1&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5-2-a1&#34;&gt;#&lt;/a&gt; &lt;strong&gt;5-2 A+1&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;given a binary number, output it +1&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;(once) = (end)+
+(start)+ = 1
+0+ = 1
+1+ = +0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;5-3-ab&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5-3-ab&#34;&gt;#&lt;/a&gt; &lt;strong&gt;5-3 A+B&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;given 2 binary number, output their sum&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;+1 = -x+
++0 = -+
+x- = -xx
+- = 
+1x = x0
+0x = 1
+x = 1
++ =
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;5-4-a-b&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5-4-a-b&#34;&gt;#&lt;/a&gt; &lt;strong&gt;5-4 A-B&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;given 2 binary number, output their different&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;-1 = Tx-
+-0 = T-
+xT = Txx
+T = 
+1x = 0
+0x = x1
+- =
+(start)0 = 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;5-5-ab&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5-5-ab&#34;&gt;#&lt;/a&gt; &lt;strong&gt;5-5 A*B&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;given 2 binary number, output their product&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;reference : &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVkzNHkxZDdkUi8=&#34;&gt;A=B 全關卡解析 - 攻略&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;pre&gt;&lt;code&gt;(once) = (start)P
+&amp;lt; = (start)Q
+Q1 = 1Q
+Qx = &amp;amp;xQ
+Q0 = 0Q
+x&amp;amp; = &amp;amp;x
+1&amp;amp; = &amp;amp;0
+0&amp;amp; = 1
+&amp;amp; = 1
+(end)*1 = 
+&amp;gt; = (end)^
+1^ = 0
+0^ = ^1
+*0 = *
+P1 = 1xP
+P0 = 0P
+P* = &amp;lt;*&amp;gt;
+Q* = &amp;lt;*&amp;gt;
+x =
+Q = 
+P = 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;5-6-ab&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5-6-ab&#34;&gt;#&lt;/a&gt; &lt;strong&gt;5-6 A/B&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;given 2 binary number, output their quotient and remainder&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;reference : &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVkzNHkxZDdkUi8=&#34;&gt;A=B 全關卡解析 - 攻略&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;pre&gt;&lt;code&gt;(once) = /*
+/0 = /
+0- = -1
+1- = 0
+&amp;lt; = (start)+
+&amp;gt; = (end)+
+* = (end)^
++//+^ = ,0
+//+ = //
+/+ = -/&amp;gt;
+/^ = /&amp;lt;*
+^ = -^+
+(once) = 0
+0+ = 1
+1+ = +0
++ = 1
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
  ]]></description>
@@ -904,9 +995,10 @@ bx = (start)b
 &lt;p&gt;&lt;a href=&#34;https://www.pinghenotes.com/a-equals-b-en/&#34;&gt;Click here to see english version&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;2022.4.4 update chapter 4&lt;br /&gt;
-2022.4.2 update chapter 3&lt;br /&gt;
-2022.4.1 update chapter 1, 2&lt;/p&gt;
+&lt;p&gt;2022.4.8 更新 第五章&lt;br /&gt;
+ 2022.4.4 更新 第四章&lt;br /&gt;
+ 2022.4.2 更新 第三章&lt;br /&gt;
+ 2022.4.1 更新 第一、二章&lt;/p&gt;
 &lt;/div&gt;
 &lt;h1 id=&#34;第一章-ab&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章-ab&#34;&gt;#&lt;/a&gt; 第一章 A=B&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;指令說明&lt;/strong&gt;&lt;/p&gt;
@@ -1317,6 +1409,100 @@ bx = (start)b
 , = x,-
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
+&lt;h1 id=&#34;第五章-math&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五章-math&#34;&gt;#&lt;/a&gt; 第五章 Math&lt;/h1&gt;
+&lt;h3 id=&#34;5-1-count&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5-1-count&#34;&gt;#&lt;/a&gt; &lt;strong&gt;5-1 Count&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;給一個二進位數，求此數量的 &lt;code&gt;a&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;(once) = (end)+
+(start)0 = 
+(start)+ = 
+0- = -1
+1- = 0
++ = -+a
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;5-2-a1&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5-2-a1&#34;&gt;#&lt;/a&gt; &lt;strong&gt;5-2 A+1&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;給一個二進位數，求此數 + 1&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;(once) = (end)+
+(start)+ = 1
+0+ = 1
+1+ = +0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;5-3-ab&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5-3-ab&#34;&gt;#&lt;/a&gt; &lt;strong&gt;5-3 A+B&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;給兩個二進位數，求兩數相加&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;+1 = -x+
++0 = -+
+x- = -xx
+- = 
+1x = x0
+0x = 1
+x = 1
++ =
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;5-4-a-b&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5-4-a-b&#34;&gt;#&lt;/a&gt; &lt;strong&gt;5-4 A-B&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;給兩個二進位數，求兩數相減&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;-1 = Tx-
+-0 = T-
+xT = Txx
+T = 
+1x = 0
+0x = x1
+- =
+(start)0 = 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;5-5-ab&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5-5-ab&#34;&gt;#&lt;/a&gt; &lt;strong&gt;5-5 A*B&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;給兩個二進位數，求兩數相乘&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;參考 : &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVkzNHkxZDdkUi8=&#34;&gt;A=B 全關卡解析 - 攻略&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;pre&gt;&lt;code&gt;(once) = (start)P
+&amp;lt; = (start)Q
+Q1 = 1Q
+Qx = &amp;amp;xQ
+Q0 = 0Q
+x&amp;amp; = &amp;amp;x
+1&amp;amp; = &amp;amp;0
+0&amp;amp; = 1
+&amp;amp; = 1
+(end)*1 = 
+&amp;gt; = (end)^
+1^ = 0
+0^ = ^1
+*0 = *
+P1 = 1xP
+P0 = 0P
+P* = &amp;lt;*&amp;gt;
+Q* = &amp;lt;*&amp;gt;
+x =
+Q = 
+P = 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;5-6-ab&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5-6-ab&#34;&gt;#&lt;/a&gt; &lt;strong&gt;5-6 A/B&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;給兩個二進位數，求兩數相除&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;參考 : &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVkzNHkxZDdkUi8=&#34;&gt;A=B 全關卡解析 - 攻略&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;pre&gt;&lt;code&gt;(once) = /*
+/0 = /
+0- = -1
+1- = 0
+&amp;lt; = (start)+
+&amp;gt; = (end)+
+* = (end)^
++//+^ = ,0
+//+ = //
+/+ = -/&amp;gt;
+/^ = /&amp;lt;*
+^ = -^+
+(once) = 0
+0+ = 1
+1+ = +0
++ = 1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
  ]]></description>
         </item>
         <item>
@@ -1450,11 +1636,11 @@ bx = (start)b
             <category term="Uva Problems" scheme="https://www.pinghenotes.com/categories/Uva-Problems/" />
             <category term="C++" scheme="https://www.pinghenotes.com/tags/C/" />
             <category term="UVa" scheme="https://www.pinghenotes.com/tags/UVa/" />
-            <category term="bellman" scheme="https://www.pinghenotes.com/tags/bellman/" />
-            <category term="Minimum cost" scheme="https://www.pinghenotes.com/tags/Minimum-cost/" />
             <category term="Maximum flow" scheme="https://www.pinghenotes.com/tags/Maximum-flow/" />
             <category term="Ford Fulkerson" scheme="https://www.pinghenotes.com/tags/Ford-Fulkerson/" />
             <category term="Edmonds-Karp" scheme="https://www.pinghenotes.com/tags/Edmonds-Karp/" />
+            <category term="bellman" scheme="https://www.pinghenotes.com/tags/bellman/" />
+            <category term="Minimum cost" scheme="https://www.pinghenotes.com/tags/Minimum-cost/" />
             <category term="bfs" scheme="https://www.pinghenotes.com/tags/bfs/" />
             <pubDate>Thu, 03 Jun 2021 00:58:23 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;題目-uva-10888-warehouse&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#題目-uva-10888-warehouse&#34;&gt;#&lt;/a&gt; 題目: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92anVkZ2UubmV0L3Byb2JsZW0vVVZBLTEwODg4&#34;&gt;UVa 10888 - Warehouse&lt;/span&gt;&lt;/h2&gt;
@@ -1500,11 +1686,11 @@ bx = (start)b
             <category term="Uva Problems" scheme="https://www.pinghenotes.com/categories/Uva-Problems/" />
             <category term="C++" scheme="https://www.pinghenotes.com/tags/C/" />
             <category term="UVa" scheme="https://www.pinghenotes.com/tags/UVa/" />
-            <category term="bellman" scheme="https://www.pinghenotes.com/tags/bellman/" />
-            <category term="Minimum cost" scheme="https://www.pinghenotes.com/tags/Minimum-cost/" />
             <category term="Maximum flow" scheme="https://www.pinghenotes.com/tags/Maximum-flow/" />
             <category term="Ford Fulkerson" scheme="https://www.pinghenotes.com/tags/Ford-Fulkerson/" />
             <category term="Edmonds-Karp" scheme="https://www.pinghenotes.com/tags/Edmonds-Karp/" />
+            <category term="bellman" scheme="https://www.pinghenotes.com/tags/bellman/" />
+            <category term="Minimum cost" scheme="https://www.pinghenotes.com/tags/Minimum-cost/" />
             <pubDate>Sat, 29 May 2021 15:33:33 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;題目-uva-10806-dijkstra-dijkstra&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#題目-uva-10806-dijkstra-dijkstra&#34;&gt;#&lt;/a&gt; 題目: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92anVkZ2UubmV0L3Byb2JsZW0vVVZBLTEwODA2&#34;&gt;UVa 10806 - Dijkstra, Dijkstra&lt;/span&gt;&lt;/h2&gt;
 &lt;h1 id=&#34;題目說明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#題目說明&#34;&gt;#&lt;/a&gt; 題目說明&lt;/h1&gt;
@@ -1536,11 +1722,11 @@ bx = (start)b
             <category term="Uva Problems" scheme="https://www.pinghenotes.com/categories/Uva-Problems/" />
             <category term="C++" scheme="https://www.pinghenotes.com/tags/C/" />
             <category term="UVa" scheme="https://www.pinghenotes.com/tags/UVa/" />
-            <category term="bellman" scheme="https://www.pinghenotes.com/tags/bellman/" />
-            <category term="Minimum cost" scheme="https://www.pinghenotes.com/tags/Minimum-cost/" />
             <category term="Maximum flow" scheme="https://www.pinghenotes.com/tags/Maximum-flow/" />
             <category term="Ford Fulkerson" scheme="https://www.pinghenotes.com/tags/Ford-Fulkerson/" />
             <category term="Edmonds-Karp" scheme="https://www.pinghenotes.com/tags/Edmonds-Karp/" />
+            <category term="bellman" scheme="https://www.pinghenotes.com/tags/bellman/" />
+            <category term="Minimum cost" scheme="https://www.pinghenotes.com/tags/Minimum-cost/" />
             <pubDate>Wed, 26 May 2021 17:32:08 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;題目-uva-10594-data-flow&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#題目-uva-10594-data-flow&#34;&gt;#&lt;/a&gt; 題目: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92anVkZ2UubmV0L3Byb2JsZW0vVVZBLTEwNTk0&#34;&gt;UVa 10594 - Data Flow&lt;/span&gt;&lt;/h2&gt;
 &lt;h1 id=&#34;題目說明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#題目說明&#34;&gt;#&lt;/a&gt; 題目說明&lt;/h1&gt;
