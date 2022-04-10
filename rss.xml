@@ -26,7 +26,8 @@
 &lt;p&gt;&lt;a href=&#34;https://www.pinghenotes.com/a-equals-b/&#34;&gt;點此查看中文版本&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;2022.4.8 update chapter 5&lt;br /&gt;
+&lt;p&gt;2022.4.10 update chapter 6&lt;br /&gt;
+2022.4.8 update chapter 5&lt;br /&gt;
 2022.4.4 update chapter 4&lt;br /&gt;
 2022.4.2 update chapter 3&lt;br /&gt;
 2022.4.1 update chapter 1, 2&lt;/p&gt;
@@ -528,6 +529,55 @@ P =
 + = 1
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
+&lt;h1 id=&#34;chapter-6-aftermath&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#chapter-6-aftermath&#34;&gt;#&lt;/a&gt; Chapter 6 Aftermath&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;instruction explanation&lt;/strong&gt;&lt;br /&gt;
+can not use any ketword&lt;/p&gt;
+&lt;h3 id=&#34;6-1-hello-again&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#6-1-hello-again&#34;&gt;#&lt;/a&gt; &lt;strong&gt;6-1 Hello Again&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output  &lt;code&gt;helloworld&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;b = a 
+c = a
+aa = a
+a = helloworld
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;6-2-palindrome-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#6-2-palindrome-2&#34;&gt;#&lt;/a&gt; &lt;strong&gt;6-2 Palindrome 2&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , output  &lt;code&gt;true&lt;/code&gt;  if the string is a palindrome, otherwise output  &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;參考 : &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVkzNHkxZDdkUi8=&#34;&gt;A=B 全關卡解析 - 攻略&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;pre&gt;&lt;code&gt;aa = ononnoa
+ab = ononnob
+ac = ononnoc
+oa = oononno
+b = oonnoonnno
+c = ooonnnooonnnno
+noono = onnoo
+nooonno = oonnnoo
+noooonnno = ooonnnnoo
+ononno = true
+oonnoonnno = true
+ooonnnooonnnno = true
+trueo = o
+on = 
+no = false
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;6-3-to-b-or-not-to-b-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#6-3-to-b-or-not-to-b-2&#34;&gt;#&lt;/a&gt; &lt;strong&gt;6-3 To B or not to B 2&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;given a string contains  &lt;code&gt;a&lt;/code&gt; ,  &lt;code&gt;b&lt;/code&gt;  and  &lt;code&gt;c&lt;/code&gt; , replace  &lt;code&gt;a&lt;/code&gt;  with  &lt;code&gt;b&lt;/code&gt;  if ant  &lt;code&gt;b&lt;/code&gt;  exist, otherwise replace  &lt;code&gt;a&lt;/code&gt;  with  &lt;code&gt;c&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;參考 : &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVkzNHkxZDdkUi8=&#34;&gt;A=B 全關卡解析 - 攻略&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;pre&gt;&lt;code&gt;%*cccccccc = b
+cccccccc*@ = b
+a = cccccccc*cccccccc
+%c = c%
+bcccccccc = b%
+ccccccccb = @b
+c@ = @c
+* = c
+cccccccc = 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
  ]]></description>
         </item>
         <item>
@@ -995,7 +1045,8 @@ P =
 &lt;p&gt;&lt;a href=&#34;https://www.pinghenotes.com/a-equals-b-en/&#34;&gt;Click here to see english version&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;2022.4.8 更新 第五章&lt;br /&gt;
+&lt;p&gt;2022.4.10 更新 第六章&lt;br /&gt;
+ 2022.4.8 更新 第五章&lt;br /&gt;
  2022.4.4 更新 第四章&lt;br /&gt;
  2022.4.2 更新 第三章&lt;br /&gt;
  2022.4.1 更新 第一、二章&lt;/p&gt;
@@ -1501,6 +1552,55 @@ P =
 0+ = 1
 1+ = +0
 + = 1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;第六章-aftermath&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第六章-aftermath&#34;&gt;#&lt;/a&gt; 第六章 Aftermath&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;指令說明&lt;/strong&gt;&lt;br /&gt;
+不能使用任何關鍵字&lt;/p&gt;
+&lt;h3 id=&#34;6-1-hello-again&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#6-1-hello-again&#34;&gt;#&lt;/a&gt; &lt;strong&gt;6-1 Hello Again&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，輸出 &lt;code&gt;helloworld&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;b = a 
+c = a
+aa = a
+a = helloworld
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;6-2-palindrome-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#6-2-palindrome-2&#34;&gt;#&lt;/a&gt; &lt;strong&gt;6-2 Palindrome 2&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，若字串是回文輸出 &lt;code&gt;true&lt;/code&gt; ，否則輸出 &lt;code&gt;false&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;參考 : &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVkzNHkxZDdkUi8=&#34;&gt;A=B 全關卡解析 - 攻略&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;pre&gt;&lt;code&gt;aa = ononnoa
+ab = ononnob
+ac = ononnoc
+oa = oononno
+b = oonnoonnno
+c = ooonnnooonnnno
+noono = onnoo
+nooonno = oonnnoo
+noooonnno = ooonnnnoo
+ononno = true
+oonnoonnno = true
+ooonnnooonnnno = true
+trueo = o
+on = 
+no = false
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;6-3-to-b-or-not-to-b-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#6-3-to-b-or-not-to-b-2&#34;&gt;#&lt;/a&gt; &lt;strong&gt;6-3 To B or not to B 2&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;給一個包含 &lt;code&gt;a&lt;/code&gt; 、 &lt;code&gt;b&lt;/code&gt; 、 &lt;code&gt;c&lt;/code&gt;  的字串，若 &lt;code&gt;b&lt;/code&gt;  存在，將 &lt;code&gt;a&lt;/code&gt;  替換成 &lt;code&gt;b&lt;/code&gt; ，否則將 &lt;code&gt;a&lt;/code&gt;  替換成 &lt;code&gt;c&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;參考 : &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVkzNHkxZDdkUi8=&#34;&gt;A=B 全關卡解析 - 攻略&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;pre&gt;&lt;code&gt;%*cccccccc = b
+cccccccc*@ = b
+a = cccccccc*cccccccc
+%c = c%
+bcccccccc = b%
+ccccccccb = @b
+c@ = @c
+* = c
+cccccccc = 
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
  ]]></description>
