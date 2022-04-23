@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>LeetCode 9. Palindrome Number</title>
+      <link href="leetcode/LeetCode-9-Palindrome-Number/"/>
+      <url>leetcode/LeetCode-9-Palindrome-Number/</url>
+      
+        <content type="html"><![CDATA[<h1 id="思路"><a class="anchor" href="#思路">#</a> 思路</h1><p>將 <code>x</code>  顛倒，再判斷是否與原數相同</p><h1 id="參考程式碼"><a class="anchor" href="#參考程式碼">#</a> 參考程式碼</h1><figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token keyword">static</span> <span class="token keyword">auto</span> fast_io <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token punctuation">]</span></pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="3"></td><td><pre>    ios<span class="token operator">::</span><span class="token function">sync_with_stdio</span><span class="token punctuation">(</span><span class="token boolean">false</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="4"></td><td><pre>cout<span class="token punctuation">.</span><span class="token function">tie</span><span class="token punctuation">(</span><span class="token keyword">nullptr</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="5"></td><td><pre>cin<span class="token punctuation">.</span><span class="token function">tie</span><span class="token punctuation">(</span><span class="token keyword">nullptr</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="6"></td><td><pre><span class="token keyword">return</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="7"></td><td><pre><span class="token punctuation">&#125;</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="8"></td><td><pre></pre></td></tr><tr><td data-num="9"></td><td><pre><span class="token keyword">class</span> <span class="token class-name">Solution</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="10"></td><td><pre><span class="token keyword">public</span><span class="token operator">:</span></pre></td></tr><tr><td data-num="11"></td><td><pre>    <span class="token keyword">bool</span> <span class="token function">isPalindrome</span><span class="token punctuation">(</span><span class="token keyword">int</span> x<span class="token punctuation">)</span></pre></td></tr><tr><td data-num="12"></td><td><pre>    <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="13"></td><td><pre>        <span class="token keyword">if</span> <span class="token punctuation">(</span>x <span class="token operator">&lt;</span> <span class="token number">0</span><span class="token punctuation">)</span> <span class="token keyword">return</span> <span class="token boolean">false</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="14"></td><td><pre>        </pre></td></tr><tr><td data-num="15"></td><td><pre>        <span class="token keyword">long</span> x1 <span class="token operator">=</span> x<span class="token punctuation">,</span> x2 <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="16"></td><td><pre>        </pre></td></tr><tr><td data-num="17"></td><td><pre>        <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token punctuation">;</span> x<span class="token punctuation">;</span> x <span class="token operator">/=</span> <span class="token number">10</span><span class="token punctuation">)</span> x2 <span class="token operator">=</span> x2<span class="token operator">*</span><span class="token number">10</span> <span class="token operator">+</span> x<span class="token operator">%</span><span class="token number">10</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="18"></td><td><pre>        <span class="token keyword">return</span> x1 <span class="token operator">==</span> x2<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="19"></td><td><pre>    <span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="20"></td><td><pre><span class="token punctuation">&#125;</span><span class="token punctuation">;</span></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> leetcode </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> LeetCode </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>LeetCode 1. Two Sum</title>
       <link href="leetcode/LeetCode-1-Two-Sum/"/>
       <url>leetcode/LeetCode-1-Two-Sum/</url>
