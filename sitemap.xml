@@ -730,14 +730,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11228-Transportation-System/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11286-Conformity/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11286-Conformity/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11228-Transportation-System/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -821,14 +821,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10653-Bombs-NO-they-are-Mines/</loc>
+    <loc>https://www.pinghenotes.com/UVa-1062-Containers/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-1062-Containers/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10653-Bombs-NO-they-are-Mines/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -856,14 +856,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10282-Babelfish/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10305-Ordering-Tasks/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10305-Ordering-Tasks/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10282-Babelfish/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -884,14 +884,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10188-Automated-Judge-Script/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10172-The-Lonesome-Cargo-Distributor/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10172-The-Lonesome-Cargo-Distributor/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10188-Automated-Judge-Script/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -921,14 +921,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/LeetCode/</loc>
+    <loc>https://www.pinghenotes.com/tags/DP/</loc>
     <lastmod>2022-04-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/DP/</loc>
+    <loc>https://www.pinghenotes.com/tags/LeetCode/</loc>
     <lastmod>2022-04-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -949,27 +949,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/Closest-Pair/</loc>
-    <lastmod>2022-04-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/DNC/</loc>
-    <lastmod>2022-04-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/string/</loc>
-    <lastmod>2022-04-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/tags/stack/</loc>
     <lastmod>2022-04-23</lastmod>
     <changefreq>daily</changefreq>
@@ -984,7 +963,28 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/tags/string/</loc>
+    <lastmod>2022-04-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/tags/map/</loc>
+    <lastmod>2022-04-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/Closest-Pair/</loc>
+    <lastmod>2022-04-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/DNC/</loc>
     <lastmod>2022-04-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1033,6 +1033,20 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/tags/unordered-set/</loc>
+    <lastmod>2022-04-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/bellman/</loc>
+    <lastmod>2022-04-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/tags/LIS/</loc>
     <lastmod>2022-04-23</lastmod>
     <changefreq>daily</changefreq>
@@ -1048,20 +1062,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/greedy/</loc>
-    <lastmod>2022-04-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/unordered-set/</loc>
-    <lastmod>2022-04-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/bellman/</loc>
     <lastmod>2022-04-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
