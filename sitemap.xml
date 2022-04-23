@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.pinghenotes.com/leetcode/LeetCode-9-Palindrome-Number/</loc>
-    
-    <lastmod>2022-04-23</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/leetcode/LeetCode-1-Two-Sum/</loc>
     
     <lastmod>2022-04-23</lastmod>
@@ -16,21 +9,21 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/a-equals-b-en/</loc>
+    <loc>https://www.pinghenotes.com/game/a-equals-b-en/</loc>
     
     <lastmod>2022-04-10</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/a-equals-b/</loc>
+    <loc>https://www.pinghenotes.com/game/a-equals-b/</loc>
     
     <lastmod>2022-04-10</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/CPE-Collections/</loc>
+    <loc>https://www.pinghenotes.com/cpp-tutorial/CPE-Collections/</loc>
     
     <lastmod>2022-04-05</lastmod>
     
@@ -128,7 +121,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/Java-Gobang/</loc>
+    <loc>https://www.pinghenotes.com/java-program/Java-Gobang/</loc>
     
     <lastmod>2021-06-17</lastmod>
     
@@ -142,14 +135,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/Data-Structures-UVa-Collections/</loc>
+    <loc>https://www.pinghenotes.com/cpp-tutorial/Data-Structures-UVa-Collections/</loc>
     
     <lastmod>2021-06-16</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/Introduction-to-Algorithms-UVa-Collections/</loc>
+    <loc>https://www.pinghenotes.com/cpp-tutorial/Introduction-to-Algorithms-UVa-Collections/</loc>
     
     <lastmod>2021-06-16</lastmod>
     
@@ -688,13 +681,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11988-Broken-Keyboard-a-k-a-Beiju-Text/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/UVa-11960-Divisor-Game/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -702,14 +688,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11631-Dark-Roads/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/UVa-11633-Food-portion-sizes/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11988-Broken-Keyboard-a-k-a-Beiju-Text/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -717,6 +696,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-11572-Unique-Snowflakes/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-11631-Dark-Roads/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -737,7 +723,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11286-Conformity/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11633-Food-portion-sizes/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -745,6 +731,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-11228-Transportation-System/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-11286-Conformity/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -814,14 +807,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10449-Traffic/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10557-XYZZY/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10557-XYZZY/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10449-Traffic/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -863,13 +856,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10305-Ordering-Tasks/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/UVa-10282-Babelfish/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -877,14 +863,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10415-Eb-Alto-Saxophone-Player/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10305-Ordering-Tasks/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10050-Hartals/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10415-Eb-Alto-Saxophone-Player/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -899,6 +885,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-10172-The-Lonesome-Cargo-Distributor/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-10050-Hartals/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -922,13 +915,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/UVa/</loc>
-    <lastmod>2022-04-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/DP/</loc>
     <lastmod>2022-04-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -970,7 +956,21 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/tags/DP/</loc>
+    <lastmod>2022-04-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/tags/map/</loc>
+    <lastmod>2022-04-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/dfs/</loc>
     <lastmod>2022-04-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -985,13 +985,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/DNC/</loc>
-    <lastmod>2022-04-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/dfs/</loc>
     <lastmod>2022-04-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1180,14 +1173,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/bitwise/</loc>
+    <loc>https://www.pinghenotes.com/tags/unordered-map/</loc>
     <lastmod>2022-04-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/unordered-map/</loc>
+    <loc>https://www.pinghenotes.com/tags/bitwise/</loc>
     <lastmod>2022-04-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1245,13 +1238,6 @@
 
   
   <url>
-    <loc>https://www.pinghenotes.com/categories/cpp-tutorial/</loc>
-    <lastmod>2022-04-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/categories/Uva-Problems/</loc>
     <lastmod>2022-04-23</lastmod>
     <changefreq>daily</changefreq>
@@ -1259,7 +1245,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/categories/game/</loc>
+    <loc>https://www.pinghenotes.com/categories/cpp-tutorial/</loc>
     <lastmod>2022-04-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1267,6 +1253,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/categories/leetcode/</loc>
+    <lastmod>2022-04-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/categories/game/</loc>
     <lastmod>2022-04-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
