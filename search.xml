@@ -1112,13 +1112,13 @@
             
             <tag> UVa </tag>
             
-            <tag> bellman </tag>
-            
             <tag> Maximum flow </tag>
             
             <tag> Ford Fulkerson </tag>
             
             <tag> Edmonds-Karp </tag>
+            
+            <tag> bellman </tag>
             
             <tag> Minimum cost </tag>
             
@@ -1151,13 +1151,13 @@
             
             <tag> UVa </tag>
             
-            <tag> bellman </tag>
-            
             <tag> Maximum flow </tag>
             
             <tag> Ford Fulkerson </tag>
             
             <tag> Edmonds-Karp </tag>
+            
+            <tag> bellman </tag>
             
             <tag> Minimum cost </tag>
             
@@ -1188,13 +1188,13 @@
             
             <tag> UVa </tag>
             
-            <tag> bellman </tag>
-            
             <tag> Maximum flow </tag>
             
             <tag> Ford Fulkerson </tag>
             
             <tag> Edmonds-Karp </tag>
+            
+            <tag> bellman </tag>
             
             <tag> Minimum cost </tag>
             
@@ -2465,9 +2465,9 @@
             
             <tag> UVa </tag>
             
-            <tag> vector </tag>
-            
             <tag> DP </tag>
+            
+            <tag> vector </tag>
             
         </tags>
       
@@ -2790,9 +2790,9 @@
             
             <tag> vector </tag>
             
-            <tag> string </tag>
-            
             <tag> Floyd-Warshall </tag>
+            
+            <tag> string </tag>
             
         </tags>
       
