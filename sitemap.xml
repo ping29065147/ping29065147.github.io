@@ -4,7 +4,7 @@
   <url>
     <loc>https://www.pinghenotes.com/cpp-tutorial/Privacy-preserving-big-data-analytics-paper-reading/</loc>
     
-    <lastmod>2023-10-07</lastmod>
+    <lastmod>2023-10-08</lastmod>
     
   </url>
   
@@ -660,14 +660,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/friends/index.html</loc>
+    <loc>https://www.pinghenotes.com/about/index.html</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/about/index.html</loc>
+    <loc>https://www.pinghenotes.com/friends/index.html</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -702,14 +702,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-978-Lemmings-Battle/</loc>
+    <loc>https://www.pinghenotes.com/UVa-929-Number-Maze/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-929-Number-Maze/</loc>
+    <loc>https://www.pinghenotes.com/UVa-978-Lemmings-Battle/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -793,14 +793,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-315-Network/</loc>
+    <loc>https://www.pinghenotes.com/UVa-389-Basically-Speaking/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-389-Basically-Speaking/</loc>
+    <loc>https://www.pinghenotes.com/UVa-315-Network/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -856,13 +856,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11906-Knight-in-a-War-Grid/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/UVa-11988-Broken-Keyboard-a-k-a-Beiju-Text/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -870,7 +863,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11572-Unique-Snowflakes/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11906-Knight-in-a-War-Grid/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -884,7 +877,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-11633-Food-portion-sizes/</loc>
+    <loc>https://www.pinghenotes.com/UVa-11572-Unique-Snowflakes/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -892,6 +885,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-11689-Soda-Surpler/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-11633-Food-portion-sizes/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -968,13 +968,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10972-RevolC-FaeLoN/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/UVa-10954-Add-All/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -982,7 +975,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/UVa-10449-Traffic/</loc>
+    <loc>https://www.pinghenotes.com/UVa-10972-RevolC-FaeLoN/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -1004,6 +997,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-10653-Bombs-NO-they-are-Mines/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/UVa-10449-Traffic/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -1096,6 +1096,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/tags/DP/</loc>
+    <lastmod>2023-10-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/tags/vector/</loc>
     <lastmod>2023-10-08</lastmod>
     <changefreq>daily</changefreq>
@@ -1103,7 +1110,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/DP/</loc>
+    <loc>https://www.pinghenotes.com/tags/Floyd-Warshall/</loc>
     <lastmod>2023-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1118,13 +1125,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/queue/</loc>
-    <lastmod>2023-10-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/Floyd-Warshall/</loc>
     <lastmod>2023-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1173,34 +1173,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/Coin-Change/</loc>
-    <lastmod>2023-10-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/Maximum-flow/</loc>
-    <lastmod>2023-10-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/Ford-Fulkerson/</loc>
-    <lastmod>2023-10-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/Edmonds-Karp/</loc>
-    <lastmod>2023-10-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/tags/LIS/</loc>
     <lastmod>2023-10-08</lastmod>
     <changefreq>daily</changefreq>
@@ -1243,7 +1215,21 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/knapsack/</loc>
+    <loc>https://www.pinghenotes.com/tags/Maximum-flow/</loc>
+    <lastmod>2023-10-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/Ford-Fulkerson/</loc>
+    <lastmod>2023-10-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/Edmonds-Karp/</loc>
     <lastmod>2023-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1251,6 +1237,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/bfs/</loc>
+    <lastmod>2023-10-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/knapsack/</loc>
     <lastmod>2023-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1278,14 +1271,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/bcc/</loc>
+    <loc>https://www.pinghenotes.com/tags/priority-queue/</loc>
     <lastmod>2023-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/priority-queue/</loc>
+    <loc>https://www.pinghenotes.com/tags/bcc/</loc>
     <lastmod>2023-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1313,7 +1306,7 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/set/</loc>
+    <loc>https://www.pinghenotes.com/tags/Coin-Change/</loc>
     <lastmod>2023-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1328,6 +1321,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/kruskcal/</loc>
+    <lastmod>2023-10-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/set/</loc>
     <lastmod>2023-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1376,6 +1376,20 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/tags/A-B/</loc>
+    <lastmod>2023-10-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/steam/</loc>
+    <lastmod>2023-10-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/tags/Paper-Reading/</loc>
     <lastmod>2023-10-08</lastmod>
     <changefreq>daily</changefreq>
@@ -1398,20 +1412,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/Big-Data/</loc>
-    <lastmod>2023-10-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/A-B/</loc>
-    <lastmod>2023-10-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/tags/steam/</loc>
     <lastmod>2023-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
