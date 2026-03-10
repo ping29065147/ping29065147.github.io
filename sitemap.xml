@@ -961,6 +961,13 @@
   </url>
   
   <url>
+    <loc>https://www.pinghenotes.com/UVa-315-Network/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pinghenotes.com/UVa-389-Basically-Speaking/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -969,13 +976,6 @@
   
   <url>
     <loc>https://www.pinghenotes.com/UVa-429-Word-Transformation/</loc>
-    
-    <lastmod>2021-01-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pinghenotes.com/UVa-315-Network/</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -1152,13 +1152,6 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/dfs/</loc>
-    <lastmod>2026-03-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.pinghenotes.com/tags/Closest-Pair/</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>daily</changefreq>
@@ -1167,6 +1160,13 @@
   
   <url>
     <loc>https://www.pinghenotes.com/tags/DNC/</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pinghenotes.com/tags/dfs/</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1355,14 +1355,14 @@
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/unordered-map/</loc>
+    <loc>https://www.pinghenotes.com/tags/bitwise/</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.pinghenotes.com/tags/bitwise/</loc>
+    <loc>https://www.pinghenotes.com/tags/unordered-map/</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
